@@ -21,7 +21,6 @@ pub-info:
       icon: fa-solid fa-file-pdf
     - name: "Download the latest version"
       url: P2/P2.pdf
-      local: true
       icon: fa-solid fa-file-pdf
 pub-status: 
   status: Writing
