@@ -20,6 +20,7 @@ pub-info:
     - name: "Download the latest version"
       url: P3/P3.pdf
       icon: fa-solid fa-file-pdf
+      html: '<a href="P3/P3.pdf" target="_blank">Download the latest version</a>'
 pub-status: 
   status: Writing
   class: warning
