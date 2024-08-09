@@ -17,7 +17,7 @@ status: working-papers
 pub-info:
   links:
     - name: "Download the latest version"
-      url: P1.pdf
+      url: P1/P1.pdf
       icon: fa-solid fa-file-pdf
     # - name: Package (unitdid)
     #   url: https://github.com/kazuyanagimoto/unitdid
