@@ -20,7 +20,7 @@ pub-info:
       url: https://www.cemfi.es/ftp/wp/2409.pdf
       icon: fa-solid fa-file-pdf
     - name: "Download the latest version"
-      url: https://www.martin-farias.com/others/papers/P2.pdf
+      url: P2.pdf
       icon: fa-solid fa-file-pdf
 pub-status: 
   status: Writing

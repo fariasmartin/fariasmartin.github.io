@@ -18,7 +18,7 @@ status: working-papers
 pub-info:
   links:
     - name: "Download the latest version"
-      url: https://www.martin-farias.com/others/papers/P3.pdf
+      url: 3.pdf
       target: _blank
       icon: fa-solid fa-file-pdf
 pub-status: 
