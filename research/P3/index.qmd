@@ -18,7 +18,8 @@ status: working-papers
 pub-info:
   links:
     - name: "Download the latest version"
-      url: 3.pdf
+      url: P3.pdf
+      local: true
       target: _blank
       icon: fa-solid fa-file-pdf
 pub-status: 
