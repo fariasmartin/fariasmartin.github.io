@@ -19,6 +19,7 @@ pub-info:
     - name: "Download the latest version"
       url: P1.pdf
       icon: fa-solid fa-file-pdf
+      target: _blank
     # - name: Package (unitdid)
     #   url: https://github.com/kazuyanagimoto/unitdid
     #   icon: fa-brands fa-github
