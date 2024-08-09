@@ -20,7 +20,6 @@ pub-info:
     - name: "Download the latest version"
       url: P3.pdf
       local: true
-      target: _blank
       icon: fa-solid fa-file-pdf
 pub-status: 
   status: Writing
