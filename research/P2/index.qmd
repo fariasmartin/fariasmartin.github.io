@@ -20,7 +20,8 @@ pub-info:
       url: https://www.cemfi.es/ftp/wp/2409.pdf
       icon: fa-solid fa-file-pdf
     - name: "Download the latest version"
-      url: P2/P2.pdf
+      url: P2.pdf
+      local: true
       icon: fa-solid fa-file-pdf
 pub-status: 
   status: Writing
