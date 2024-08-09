@@ -37,7 +37,9 @@ website:
       - text: CV
         href: https://github.com/fariasmartin/fariasmartin.github.io/blob/main/others/CV/CV-english.pdf
         target: _blank
-  
+  page-footer:
+    left: |
+      <span class="faux-block"> I borrowed the template for this website from <a href="https://kazuyanagimoto.com/" target="_blank">Kazuharu Yanagimoto</a></span>  
 
 format:
   html:
