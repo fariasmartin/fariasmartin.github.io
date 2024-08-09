@@ -6,11 +6,6 @@ author:
   - name: Martin Farias
     url: https://www.martin-farias.com/
     affiliation: CEMFI
-  # - name: Javier Suarez
-  #   url: https://www.cemfi.es/~suarez/
-  #   affiliation: CEMFI & CEPR
-#categories:
-  #- Two-way Fixed Effects
   
 image: img/F3a-cropped.png
 status: working-papers
