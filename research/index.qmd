@@ -1,0 +1,25 @@
+---
+title: Research
+#description: My research centers on Corporate Finance and the Economics of Banking. I aim to understand how risks propagate through the financial system and impact households and firms. I am interested in many topics of in corporate finance, particularly in how financial frictions influence firm behavior. Additionally, I want to apply my knowledge and skill to explore intersections with other relevant topics such as climate change and artificial intelligence, among others.
+home: true
+listing:
+  - id: projects
+    contents: "/*/index.qmd"
+    sort: "title desc"
+    template: ../static/html/research/listing.ejs
+    categories: false  
+title-block-banner: "#fff"
+page-layout: full
+toc: true 
+toc-location: right
+toc-title: Contents
+---
+
+My research centers on **Corporate Finance** and the **Economics of Banking**. I aim to understand how risks propagate through the financial system and impact households and firms. I am interested in many topics of in corporate finance, particularly in how financial frictions influence firm behavior. Additionally, I seek to apply my knowledge and skill to explore intersections with other relevant topics such as climate change and artificial intelligence, among others. 
+
+
+:::{#projects}
+:::
+
+{{< ai blank-just-to-add-ai-dependency-to-this-page >}}
+

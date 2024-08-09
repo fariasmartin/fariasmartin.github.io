@@ -1,0 +1,46 @@
+# project:
+#   type: website
+project:
+  type: website
+  output-dir: docs
+  preview: 
+    port: 5556
+    browser: true
+    watch-inputs: true
+    navigate: true
+
+execute:
+  freeze: auto
+  warning: false
+
+website:
+  title: "Martin Farias"
+  favicon: images/favicon
+  site-url: https://www.martin-farias.com
+  google-analytics: "G-EBZLN545EX"
+  twitter-card:
+    creator: "@jmartin_farias"
+    site: "@jmartin_farias"
+  open-graph: true
+  navbar:
+    right:
+      - text: About
+        file: about/index.qmd
+      - text: Experience
+        file: experience/index.qmd
+      - text: Research
+        file: research/index.qmd
+      - text: Education
+        file: education/index.qmd
+      # - text: Blog
+      #   file: blog/index.qmd
+      - text: CV
+        href: https://www.martin-farias.com/others/CV/CV-english.pdf
+        target: _blank
+  
+
+format:
+  html:
+    theme: 
+      - static/html/custom.scss
+

@@ -1,0 +1,54 @@
+---
+title: "The Allocation of Cash Flow by Spanish Firms: New Evidence on the Impact of Financial Frictions (JMP)"
+subtitle: "An empirical analysis of the heterogeneous effects of financial frictions on the allocation of cash flow by Spanish firms."
+date: 2024-03-22
+author:
+  - name: Martin Farias
+    url: https://www.martin-farias.com/
+    affiliation: CEMFI
+  # - name: Javier Suarez
+  #   url: https://www.cemfi.es/~suarez/
+  #   affiliation: CEMFI & CEPR
+#categories:
+  #- Two-way Fixed Effects
+  
+image: img/F3a-cropped.png
+status: working-papers
+pub-info:
+  links:
+    - name: CEMFI WP
+      url: https://www.cemfi.es/ftp/wp/2409.pdf
+      icon: fa-solid fa-file-pdf
+    - name: "Download the latest version"
+      url: https://www.martin-farias.com/others/papers/P2.pdf
+      icon: fa-solid fa-file-pdf
+pub-status: 
+  status: Writing
+  class: warning
+  icon: fa-solid fa-pencil
+#   status: Under review 
+#   class: success
+#   icon: fas fa-glasses
+---
+
+## Abstract
+
+This paper studies the impact of financial frictions on the allocation of cash flow using administrative data of Spanish non-financial corporations from 2003 to 2019. Employing an analytical framework based on the uses and sources of funds identity, I estimate regression models to examine the allocation of cash flow across its competing uses. My findings reveal that larger financial frictions are, on average, associated with a higher proportion of cash flow allocated to debt repayment and lower proportions allocated to cash savings, investment, and dividend distribution. The analysis also highlights that the effect of financial frictions on the allocation of cash flow varies significantly with variables capturing the economic and financial situation of each firm such as leverage, cash holdings, capital, and the availability of investment opportunities.
+
+## Important tables/figures
+
+![TABLE 6. The impact of financial frictions on the allocation of cash flow.](img/T6.png)
+
+![FIGURE 3 (Panel a). The impact of financial frictions on the allocation of cash flow. Heterogeneous effects across variables describing the economic and financial situation of firms.](img/F3a.png)
+
+## BibTeX citation
+
+```bibtex
+@article{farias2024model,
+  title={The Allocation of Cash Flow by Spanish Firms: New Evidence on the Impact of Financial Frictions},
+  author={Farias, Martin},
+  year={2024}
+}
+```
+
+{{< ai blank-just-to-add-ai-dependency-to-this-page >}}

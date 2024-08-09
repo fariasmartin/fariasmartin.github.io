@@ -1,0 +1,54 @@
+---
+title: "A Model of Interacting Banks and Money Market Funds"
+subtitle: "A model to rationalize the coexistence of Banks and Money Market funds and to study its policy implications."
+date: 2024-05-01
+authors:
+  - name: Martin Farias
+    url: https://www.martin-farias.com/
+    affiliation: CEMFI
+  - name: Javier Suarez
+    url: https://www.cemfi.es/~suarez/
+    affiliation: CEMFI & CEPR
+#categories:
+  #- Two-way Fixed Effects
+  
+#image: img/kmeans_earn_cage30_34.svg
+status: working-papers
+pub-info:
+  links:
+    - name: "Download the latest version"
+      url: https://www.martin-farias.com/others/papers/P1.pdf
+      icon: fa-solid fa-file-pdf
+    # - name: Package (unitdid)
+    #   url: https://github.com/kazuyanagimoto/unitdid
+    #   icon: fa-brands fa-github
+pub-status: 
+  status: Writing
+  class: warning
+  icon: fa-solid fa-pencil
+#   status: Under review
+#   class: success
+#   icon: fas fa-glasses
+---
+
+## Abstract
+
+We examine the interaction between banks and Money Market Funds (MMFs) in a setup where the latter can experience large redemptions following an aggregate liquidity shock (as in March 2020). In the model, MMFs and bank deposits are alternatives for firms’ management of their cash holdings. MMFs experiencing correlated redemptions get forced to sell assets to banks in narrow markets, producing asset price declines. Ex post the price declines damage firms’ capacity to cover their needs with the redeemed shares. Ex ante the prospect of such an effect reduces the attractiveness of MMFs relative to bank deposits. Yet the equilibrium allocation of firms’ savings exhibits an excessive reliance on MMFs since firms fail to internalize their effect on the size of the pecuniary externalities caused by future redemptions. This provides a rationale, distinct from first-mover advantages, for the macroprudential regulation of the investment in MMFs.
+
+<!-- ## Important table & figure
+
+![Figure I (b): High Heterogeneity in Child-penalties (CP), Different CP Paths (K-Means)](img/kmeans_earn_cage30_34.svg)
+
+![Figure VII: Intergenerational mobility in CP: mothers vs daughters](img/IGMcp.svg) -->
+
+## BibTeX citation
+
+```bibtex
+@article{farias2024model,
+  title={A Model of Interacting Banks and Money Market Funds},
+  author={Farias, Martin and Suarez, Javier},
+  year={2024}
+}
+```
+
+{{< ai blank-just-to-add-ai-dependency-to-this-page >}}

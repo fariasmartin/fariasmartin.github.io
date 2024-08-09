@@ -1,0 +1,53 @@
+---
+title: "Decoding Distress: The Behavior of Firms Preceding Bankruptcy"
+subtitle: "An empirical exploration of the dynamics of firms in the years leading up to bankruptcy."
+date: 2024-04-04
+author:
+  - name: Martin Farias
+    url: https://www.martin-farias.com/
+    target: _blank
+    affiliation: CEMFI
+  # - name: Javier Suarez
+  #   url: https://www.cemfi.es/~suarez/
+  #   affiliation: CEMFI & CEPR
+#categories:
+  #- Two-way Fixed Effects
+  
+image: img/F5-a-b.png
+status: working-papers
+pub-info:
+  links:
+    - name: "Download the latest version"
+      url: https://www.martin-farias.com/others/papers/P3.pdf
+      target: _blank
+      icon: fa-solid fa-file-pdf
+pub-status: 
+  status: Writing
+  class: warning
+  icon: fa-solid fa-pencil
+#   status: Under review
+#   class: success
+#   icon: fas fa-glasses
+---
+
+## Abstract
+
+This article offers evidence of the behavior and performance of Spanish firms preceding bankruptcy. I estimate a predictive model of bankruptcy which shows that the most important predictors of bankruptcy include measures of equity (net worth), proﬁtability, size, and dividends, as well as the growth rate of aggregate credit. I complement the insights provided by the predictive model with an exploration of the dynamics of firms in the five years preceding bankruptcy, comparing it with the dynamics of firms before exiting the market without filing for bankruptcy. I find that firms arrive at the point of filing for bankruptcy in a very distressed financial situation, after experiencing greater decreases in earnings and equity than firms exiting the market without filing for bankruptcy. Despite this, other measures of the real and financial performance of these firms (investment rates, growth rates of employees, cash savings, and growth rate of account receivables) are mostly similar across the two groups of firms.
+
+## Important figures
+
+![FIGURE 3. Importance of each of the 15 most important covariates in the predictive model associated with $\lambda_{min}$.](img/F3.png)
+
+![FIGURE 5 (Panels a & b). Earnings and equity of bankrupt and exiting firms.](img/F5-a-b.png)
+
+## BibTeX citation
+
+```bibtex
+@article{farias2024model,
+  title={The Allocation of Cash Flow by Spanish Firms: New Evidence on the Impact of Financial Frictions},
+  author={Farias, Martin},
+  year={2024}
+}
+```
+
+{{< ai blank-just-to-add-ai-dependency-to-this-page >}}

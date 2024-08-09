@@ -15,12 +15,14 @@ about:
       href: https://github.com/fariasmartin
 ---
 
-I am a microeconomist specialized in Corporate Finance and Economics of Banking. I received my PhD in Economics from [CEMFI](https://www.cemfi.es/).<br>
+I am a microeconomist specialized in Corporate Finance and Economics of Banking. I received my PhD in Economics from [CEMFI](https://www.cemfi.es/). H
 
 
 I am currently seeking positions that provide a stimulating and dynamic environment, where I can make a positive impact and contribute to meaningful projects.
 
-
 ::: {style="text-align: right"}
 [Read More →](../about)
 :::
+
+
+
