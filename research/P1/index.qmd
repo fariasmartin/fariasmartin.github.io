@@ -16,8 +16,8 @@ authors:
 status: working-papers
 pub-info:
   links:
-    - name: "Download the latest version"
-      url: "https://martin-farias.com/CV/CV-english.pdf"
+    - name: "Download the latest version111111"
+      url: "https://martin-farias.com/research/P1/P1.pdf"
       icon: fa-solid fa-file-pdf
     # - name: Package (unitdid)
     #   url: https://github.com/kazuyanagimoto/unitdid
