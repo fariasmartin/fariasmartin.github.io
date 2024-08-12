@@ -9,9 +9,9 @@ toc-location: right
 toc-title: Contents
 ---
 
-### {{< fa graduation-cap >}} PhD in Economics and Government &#8729; [CEMFI](https://www.cemfi.es/)  &#8729;  2024  
+### {{< fa graduation-cap >}} PhD in Economics and Government &#8729; [CEMFI](https://www.cemfi.es/){target="_blank"}  &#8729;  2024  
 
-**PhD Committee**: [Samuel Bentolila](https://sites.google.com/view/samuel-bentolila-home), [Rafael Repullo](https://www.cemfi.es/~repullo/), and [Javier Suarez (supervisor)](https://www.cemfi.es/~suarez/).
+**PhD Committee**: [Samuel Bentolila](https://sites.google.com/view/samuel-bentolila-home){target="_blank"}, [Rafael Repullo](https://www.cemfi.es/~repullo/){target="_blank"}, and [Javier Suarez (supervisor)](https://www.cemfi.es/~suarez/){target="_blank"}.
 
 **Thesis**: "Essays on Banking and Corporate Finance".  
 This dissertation contributes to the discussion of how different types of imperfections in the relationship between firms and financial intermediaries can potentially affect the real and financial performance of firms, their financial vulnerability, the channeling of funds to different types of financial intermediaries, and the stability of the financial system.
@@ -19,31 +19,31 @@ This dissertation contributes to the discussion of how different types of imperf
 
 **Relevant short courses**
 
-- [Macroeconomics and Climate Change](https://www.cemfi.es/programs/css/course.asp?cu=14), by [John Hassler](http://hassler-j.iies.su.se/) and [Per Krusell](http://perseus.iies.su.se/~pkrus/).  
+- [Macroeconomics and Climate Change](https://www.cemfi.es/programs/css/course.asp?cu=14){target="_blank"}, by [John Hassler](http://hassler-j.iies.su.se/) and [Per Krusell](http://perseus.iies.su.se/~pkrus/){target="_blank"}.  
 Topics: The natural science of climate change, climate damages, natural resource economics, directed technical change, good and bad climate policies.
-- [Machine Learning in Finance](https://www.cemfi.es/programs/css/course_previous_years.asp?c=19&y=2023), by [Ansgar Walther](https://ansgarwalther.weebly.com/).  
+- [Machine Learning in Finance](https://www.cemfi.es/programs/css/course_previous_years.asp?c=19&y=2023){target="_blank"}, by [Ansgar Walther](https://ansgarwalther.weebly.com/){target="_blank"}.  
 Topics: Supervised and unsupervised machine learning models, reinforcement learning, interpretability and causal inference in machine learning.
-- [Introduction to Experimental Analysis](https://www.martin-farias.com/education/intro-experimental-analysis-arkhangelsky/arkhangelsky-experiments-syllabus.pdf), by [Dmitry Arkhangelsky](https://sites.google.com/view/dmitry-arkhangelsky/home).  
+- [Introduction to Experimental Analysis](https://www.martin-farias.com/education/intro-experimental-analysis-arkhangelsky/arkhangelsky-experiments-syllabus.pdf){target="_blank"}, by [Dmitry Arkhangelsky](https://sites.google.com/view/dmitry-arkhangelsky/home){target="_blank"}.  
 Topics: Static A/B testing, adaptive experiments, dynamic experiments.
-- [Unstructured Data in Empirical Economics](https://www.cemfi.es/programs/css/course_previous_years.asp?c=14&y=2021){:target="_blank"}, by [Stephen Hansen](https://sekhansen.github.io/){:target="_blank"}.  
+- [Unstructured Data in Empirical Economics](https://www.cemfi.es/programs/css/course_previous_years.asp?c=14&y=2021){target="_blank"}, by [Stephen Hansen](https://sekhansen.github.io/){target="_blank"}.  
 Topics: The bag-of-words model, latent Dirichlet allocation, word embedding models, large language models, convolutional neural networks.
 
 
 
-### {{< fa graduation-cap >}} Master in Economics and Finance  &#8729; [CEMFI](https://www.cemfi.es/)  &#8729;  2020
+### {{< fa graduation-cap >}} Master in Economics and Finance  &#8729; [CEMFI](https://www.cemfi.es/){target="_blank"}  &#8729;  2020
 
 **Courses**: Mathematics, Microeconomics, Statistics, Uncertainty and Information, Macroeconomics I and II, Econometrics, Industrial Economics, Corporate Finance, Microeconometrics, Economics of Banking, Quantitative Macroeconomics, International Economics, International Macroeconomics, Topics in Empirical Economics.
 
-**Master thesis**: "Public Supply of Liquidity to Mutual Funds", supervised by [Javier Suarez](https://www.cemfi.es/~suarez/).  
+**Master thesis**: "Public Supply of Liquidity to Mutual Funds", supervised by [Javier Suarez](https://www.cemfi.es/~suarez/){target="_blank"}.  
 Abstract: The public provision of liquidity to the mutual fund sector is studied. I provide an stylized model of the interaction between mutual funds and banks in a framework where a central bank supplies liquidity to the entire financial system using the commercial banks as intermediares. When the public liquidity is costly, a benevolent central bank sets the optimal ex-post lending rate equal to the marginal social cost of the liquidity provision. The optimal lending rate is decreasing in the ex-ante mutual funds’ investment in short-term assets and it is increasing in the ex-ante investment in long-term assets by mutual funds and banks.
 
-### {{< fa graduation-cap >}} Bachelor in Economics  &#8729; [Universidad Nacional de Córdoba](https://www.eco.unc.edu.ar/)  &#8729;  2017
+### {{< fa graduation-cap >}} Bachelor in Economics  &#8729; [Universidad Nacional de Córdoba](https://www.eco.unc.edu.ar/){target="_blank"}  &#8729;  2017
 
-In my bachelor I specialized in Quantitative Methods. My thesis supervisor was [Alfredo Schclarek Curutchet](https://cbaeconomia.com/), and I worked as teaching and research assistant to [Ángel Enrique (riqui) Neder](https://www.eco.unc.edu.ar/ief/?view=article&id=12487:neder-enrique&catid=187).
+In my bachelor I specialized in Quantitative Methods. My thesis supervisor was [Alfredo Schclarek Curutchet](https://cbaeconomia.com/){target="_blank"}, and I worked as teaching and research assistant to [Ángel Enrique (riqui) Neder](https://www.eco.unc.edu.ar/ief/?view=article&id=12487:neder-enrique&catid=187){target="_blank"}.
 
 I would like to highlight the following course that I attended in my last year at Córdoba:
 
-- [Programa de Formación en Normas, Prácticas y Técnicas Bancarias](https://www.eco.unc.edu.ar/contando/957), by [BCRA](https://www.bcra.gob.ar/) and [ABAPPRA](https://abappra.org.ar/) **(90 hours)**.
+- [Programa de Formación en Normas, Prácticas y Técnicas Bancarias](https://www.eco.unc.edu.ar/contando/957){target="_blank"}, by [BCRA](https://www.bcra.gob.ar/){target="_blank"} and [ABAPPRA](https://abappra.org.ar/){target="_blank"} **(90 hours)**.
 Topics: Regulation and supervision of financial institutions; Active operations (Loans); Passive operations; Capital markets; Financial risks; Credit standards; Liquidity, solvency, and dividends; Bank accounting and external auditing; Foreign exchange; User protection; Information security; Security in financial institutions; Payment system.
 
 {{< ai blank-just-to-add-ai-dependency-to-this-page >}}
