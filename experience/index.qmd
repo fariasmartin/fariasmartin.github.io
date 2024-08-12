@@ -10,24 +10,24 @@ toc-title: Contents
 ---
 
 - **Research Assistant**
-  - Working under the supervision of [Guillermo Caruana](https://www.cemfi.es/~caruana). [January 2022 - July 2024]{style="float:right"}  
+  - Working under the supervision of [Guillermo Caruana](https://www.cemfi.es/~caruana){target="_blank"}. [January 2022 - July 2024]{style="float:right"}  
   My tasks included:
-    - Using the API of a popular mobile game [Clash Royale](https://supercell.com/en/games/clashroyale/) to track the behavior of users over time.
+    - Using the API of a popular mobile game [Clash Royale](https://supercell.com/en/games/clashroyale/){target="_blank"} to track the behavior of users over time.
     - Cleaning the data and using it to study the prevalence of loss aversion and its interaction with fatigue.
     - Writing reports discussing my findings and supervising the tasks of a junior research assistant.  
-  - Working under the supervision of [Guillermo Caruana](https://www.cemfi.es/~caruana). [July 2019 - September 2019]{style="float:right"}  
+  - Working under the supervision of [Guillermo Caruana](https://www.cemfi.es/~caruana){target="_blank"}. [July 2019 - September 2019]{style="float:right"}  
   My tasks included:
     - Developing algorithms in Python to predict tennis match outcomes.
     - Comparing the accuracy of these algorithms with that of well-established techniques like ELO.
     - Communicating my findings to the research team working on the project.
 - **Teaching Assistant**
-  - Corporate Finance, at [CEMFI](https://www.cemfi.es/): Teaching assistance for [Javier Suarez](https://www.cemfi.es/~suarez). [Spring 2021, 2022]{style="float:right"}
-  - Microeconomics, at [CEMFI](https://www.cemfi.es/): Teaching assistance for [Guillermo Caruana](https://www.cemfi.es/~caruana). [Fall 2021]{style="float:right"}
-  - [Programa Universitario de Gestión Bancor – FCE UNC](https://www.eco.unc.edu.ar/mas-noticias/finalizo-el-programa-universitario-de-gestion-bancor), at [UNC](https://www.eco.unc.edu.ar/). [Mar 2018 - Jun 2018]{style="float:right"}  
-    We offered online training to 1,400 employees of [Banco de Córdoba](https://www.bancor.com.ar/) on topics such as the financial system in Argentina and the role of the bank, ICTs and their influence on the banking business, management tools, banking products, leadership, and teamwork.
-  - Introduction to Economics (Profesor Ayudante B), at [Universidad Nacional de Córdoba](https://www.eco.unc.edu.ar/).  Feb 2018 - Mar 2018
-  - Statistics II (Profesor Ayudante B), at [Universidad Nacional de Córdoba](https://www.eco.unc.edu.ar/). [Oct 2017 - Aug 2018]{style="float:right"}
-- **Junior Researcher**, at the [Professional Council of Economics of Córdoba](https://cpcecba.org.ar). [May 2016 - June 2017]{style="float:right"}  
+  - Corporate Finance, at [CEMFI](https://www.cemfi.es/){target="_blank"}: Teaching assistance for [Javier Suarez](https://www.cemfi.es/~suarez){target="_blank"}. [Spring 2021, 2022]{style="float:right"}
+  - Microeconomics, at [CEMFI](https://www.cemfi.es/){target="_blank"}: Teaching assistance for [Guillermo Caruana](https://www.cemfi.es/~caruana){target="_blank"}. [Fall 2021]{style="float:right"}
+  - [Programa Universitario de Gestión Bancor – FCE UNC](https://www.eco.unc.edu.ar/mas-noticias/finalizo-el-programa-universitario-de-gestion-bancor){target="_blank"}, at [UNC](https://www.eco.unc.edu.ar/){target="_blank"}. [Mar 2018 - Jun 2018]{style="float:right"}  
+    We offered online training to 1,400 employees of [Banco de Córdoba](https://www.bancor.com.ar/){target="_blank"} on topics such as the financial system in Argentina and the role of the bank, ICTs and their influence on the banking business, management tools, banking products, leadership, and teamwork.
+  - Introduction to Economics (Profesor Ayudante B), at [Universidad Nacional de Córdoba](https://www.eco.unc.edu.ar/){target="_blank"}.  Feb 2018 - Mar 2018
+  - Statistics II (Profesor Ayudante B), at [Universidad Nacional de Córdoba](https://www.eco.unc.edu.ar/){target="_blank"}. [Oct 2017 - Aug 2018]{style="float:right"}
+- **Junior Researcher**, at the [Professional Council of Economics of Córdoba](https://cpcecba.org.ar){target="_blank"}. [May 2016 - June 2017]{style="float:right"}  
 I was part of a team of economists producing monthly reports on the economic situation of Argentina, covering topics such as monetary policy, fiscal policy, international trade, and inflation, among others. The team was also in charge of producing a price index for a subset of cities in Córdoba with monthly frequency.
 
 

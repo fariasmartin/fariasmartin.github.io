@@ -7,15 +7,18 @@ about:
     - icon: linkedin
       text: LinkedIn
       href: https://www.linkedin.com/in/martin-farias-b04052137/
+      target: _blank
     - icon: twitter-x
       text: X
       href: https://twitter.com/jmartin_farias
+      target: _blank
     - icon: github
       text: GitHub
       href: https://github.com/fariasmartin
+      target: _blank
 ---
 
-I am a microeconomist specialized in Corporate Finance and Economics of Banking. I received my PhD in Economics from [CEMFI](https://www.cemfi.es/).
+I am a microeconomist specialized in Corporate Finance and Economics of Banking. I received my PhD in Economics from [CEMFI](https://www.cemfi.es/){target="_blank"}.
 
 I am currently seeking positions that provide a stimulating and dynamic environment, where I can make a positive impact and contribute to meaningful projects.
 
