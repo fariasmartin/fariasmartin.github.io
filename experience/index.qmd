@@ -19,7 +19,7 @@ toc-title: Contents
   My tasks included:
     - Developing algorithms in Python to predict tennis match outcomes.
     - Comparing the accuracy of these algorithms with that of well-established techniques like ELO.
-    - Communicating my findings to the research team working on the project.
+    - Communicating my findings to the research team working on the project.  
     <br/><br/>
 - **Teaching Assistant**
   - Corporate Finance, at [CEMFI](https://www.cemfi.es/){target="_blank"}: Teaching assistance for [Javier Suarez](https://www.cemfi.es/~suarez){target="_blank"}. [Spring 2021, 2022]{style="float:right"}
