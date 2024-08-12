@@ -25,7 +25,7 @@ Topics: The natural science of climate change, climate damages, natural resource
 Topics: Supervised and unsupervised machine learning models, reinforcement learning, interpretability and causal inference in machine learning.
 - [Introduction to Experimental Analysis](https://www.martin-farias.com/education/intro-experimental-analysis-arkhangelsky/arkhangelsky-experiments-syllabus.pdf), by [Dmitry Arkhangelsky](https://sites.google.com/view/dmitry-arkhangelsky/home).  
 Topics: Static A/B testing, adaptive experiments, dynamic experiments.
-- [Unstructured Data in Empirical Economics](https://www.cemfi.es/programs/css/course_previous_years.asp?c=14&y=2021), by [Stephen Hansen](https://sekhansen.github.io/).  
+- [Unstructured Data in Empirical Economics](https://www.cemfi.es/programs/css/course_previous_years.asp?c=14&y=2021){:target="_blank"}, by [Stephen Hansen](https://sekhansen.github.io/){:target="_blank"}.  
 Topics: The bag-of-words model, latent Dirichlet allocation, word embedding models, large language models, convolutional neural networks.
 
 
