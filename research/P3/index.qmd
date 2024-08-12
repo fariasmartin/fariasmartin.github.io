@@ -17,7 +17,7 @@ image: img/F5-a-b.png
 status: working-papers
 pub-info:
   links:
-    - name: "Download the latest version"
+    - name: "Download the latest version."
       url: https://martin-farias.com/research/P3/P3.pdf
       icon: fa-solid fa-file-pdf
 pub-status: 
