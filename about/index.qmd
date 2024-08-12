@@ -58,11 +58,11 @@ I recently received my PhD in Economics from [CEMFI](https://www.cemfi.es/){targ
 
 ## Education
 
-{{< fa graduation-cap >}} PhD in Economics and Government &#8729; [CEMFI](https://www.cemfi.es/)  &#8729;  2024
+{{< fa graduation-cap >}} PhD in Economics and Government &#8729; [CEMFI](https://www.cemfi.es/){target="_blank"}  &#8729;  2024
 
-{{< fa graduation-cap >}} Master in Economics and Finance  &#8729; [CEMFI](https://www.cemfi.es/)  &#8729;  2020
+{{< fa graduation-cap >}} Master in Economics and Finance  &#8729; [CEMFI](https://www.cemfi.es/){target="_blank"}  &#8729;  2020
 
-{{< fa graduation-cap >}} Bachelor in Economics  &#8729; [Universidad Nacional de Córdoba](https://www.eco.unc.edu.ar/)  &#8729;  2017
+{{< fa graduation-cap >}} Bachelor in Economics  &#8729; [Universidad Nacional de Córdoba](https://www.eco.unc.edu.ar/){target="_blank"}  &#8729;  2017
 
 ::: {style="text-align: right"}
 [Read more about my education here →](../education)
