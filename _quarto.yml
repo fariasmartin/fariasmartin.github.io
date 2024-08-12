@@ -17,6 +17,7 @@ website:
   title: "Martin Farias"
   favicon: images/favicon
   site-url: https://www.martin-farias.com
+  repo-url: https://github.com/fariasmartin/fariasmartin.github.io
   google-analytics: "G-EBZLN545EX"
   twitter-card:
     creator: "@jmartin_farias"
