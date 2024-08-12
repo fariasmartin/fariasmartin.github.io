@@ -37,7 +37,6 @@ website:
       #   file: blog/index.qmd
       - text: CV
         href: https://martin-farias.com/CV/CV-english.pdf
-        target: _blank
   page-footer:
     left: |
       <span class="faux-block"> I borrowed the template for this website from <a href="https://kazuyanagimoto.com/" target="_blank">Kazuharu Yanagimoto</a></span>  
