@@ -19,7 +19,7 @@ This dissertation contributes to the discussion of how different types of imperf
 
 **Relevant short courses**
 
-- [Macroeconomics and Climate Change](https://www.cemfi.es/programs/css/course.asp?cu=14){target="_blank"}, by [John Hassler](http://hassler-j.iies.su.se/) and [Per Krusell](http://perseus.iies.su.se/~pkrus/){target="_blank"}.  
+- [Macroeconomics and Climate Change](https://www.cemfi.es/programs/css/course.asp?cu=14){target="_blank"}, by [John Hassler](http://hassler-j.iies.su.se/){target="_blank"} and [Per Krusell](http://perseus.iies.su.se/~pkrus/){target="_blank"}.  
 Topics: The natural science of climate change, climate damages, natural resource economics, directed technical change, good and bad climate policies.
 - [Machine Learning in Finance](https://www.cemfi.es/programs/css/course_previous_years.asp?c=19&y=2023){target="_blank"}, by [Ansgar Walther](https://ansgarwalther.weebly.com/){target="_blank"}.  
 Topics: Supervised and unsupervised machine learning models, reinforcement learning, interpretability and causal inference in machine learning.
