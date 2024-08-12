@@ -28,7 +28,7 @@ toc-title: Contents
     We offered online training to 1,400 employees of [Banco de Córdoba](https://www.bancor.com.ar/){target="_blank"} on topics such as the financial system in Argentina and the role of the bank, ICTs and their influence on the banking business, management tools, banking products, leadership, and teamwork.
   - Introduction to Economics (Profesor Ayudante B), at [Universidad Nacional de Córdoba](https://www.eco.unc.edu.ar/){target="_blank"}.  Feb 2018 - Mar 2018
   - Statistics II (Profesor Ayudante B), at [Universidad Nacional de Córdoba](https://www.eco.unc.edu.ar/){target="_blank"}. [Oct 2017 - Aug 2018]{style="float:right"}  
-    <br/>
+    <br/><br/>
 - **Junior Researcher**, at the [Professional Council of Economics of Córdoba](https://cpcecba.org.ar){target="_blank"}. [May 2016 - June 2017]{style="float:right"}
 I was part of a team of economists producing monthly reports on the economic situation of Argentina, covering topics such as monetary policy, fiscal policy, international trade, and inflation, among others. The team was also in charge of producing a price index for a subset of cities in Córdoba with monthly frequency.
 
