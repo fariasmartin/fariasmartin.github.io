@@ -32,12 +32,14 @@ I recently received my PhD in Economics from [CEMFI](https://www.cemfi.es/){targ
 - **Research Assistant**
   - Working under the supervision of [Guillermo Caruana](https://www.cemfi.es/~caruana){target="_blank"}. [January 2022 - July 2024]{style="float:right"}  
   - Working under the supervision of [Guillermo Caruana](https://www.cemfi.es/~caruana){target="_blank"}. [July 2019 - September 2019]{style="float:right"}  
+  <br>
 - **Teaching Assistant**
   - Corporate Finance, at [CEMFI](https://www.cemfi.es/){target="_blank"}: Teaching assistance for [Javier Suarez](https://www.cemfi.es/~suarez){target="_blank"}. [Spring 2021, 2022]{style="float:right"}
   - Microeconomics, at [CEMFI](https://www.cemfi.es/): Teaching assistance for [Guillermo Caruana](https://www.cemfi.es/~caruana){target="_blank"}. [Fall 2021]{style="float:right"}
   - [Programa Universitario de Gestión Bancor – FCE UNC](https://www.eco.unc.edu.ar/mas-noticias/finalizo-el-programa-universitario-de-gestion-bancor), at [UNC](https://www.eco.unc.edu.ar/){target="_blank"}. [Mar 2018 - Jun 2018]{style="float:right"}  
   - Introduction to Economics (Profesor Ayudante B), at [Universidad Nacional de Córdoba](https://www.eco.unc.edu.ar/){target="_blank"}.  Feb 2018 - Mar 2018
-  - Statistics II (Profesor Ayudante B), at [Universidad Nacional de Córdoba](https://www.eco.unc.edu.ar/){target="_blank"}. [Oct 2017 - Aug 2018]{style="float:right"}
+  - Statistics II (Profesor Ayudante B), at [Universidad Nacional de Córdoba](https://www.eco.unc.edu.ar/){target="_blank"}. [Oct 2017 - Aug 2018]{style="float:right"}  
+  <br>
 - **Junior Researcher**, at the [Professional Council of Economics of Córdoba](https://cpcecba.org.ar){target="_blank"}. [May 2016 - June 2017]{style="float:right"}  
 
 ::: {style="text-align: right"}
