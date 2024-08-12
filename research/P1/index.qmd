@@ -18,6 +18,7 @@ pub-info:
   links:
     - name: "Download the latest version"
       url: https://martin-farias.com/research/P1/P1.pdf
+      target: _blank
       icon: fa-solid fa-file-pdf
     # - name: Package (unitdid)
     #   url: https://github.com/kazuyanagimoto/unitdid
