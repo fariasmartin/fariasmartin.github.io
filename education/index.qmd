@@ -35,7 +35,6 @@ Topics: The bag-of-words model, latent Dirichlet allocation, word embedding mode
 **Courses**: Mathematics, Microeconomics, Statistics, Uncertainty and Information, Macroeconomics I and II, Econometrics, Industrial Economics, Corporate Finance, Microeconometrics, Economics of Banking, Quantitative Macroeconomics, International Economics, International Macroeconomics, Topics in Empirical Economics.
 
 **Master thesis**: "Public Supply of Liquidity to Mutual Funds", supervised by [Javier Suarez](https://www.cemfi.es/~suarez/){target="_blank"}.  
-Abstract: The public provision of liquidity to the mutual fund sector is studied. I provide an stylized model of the interaction between mutual funds and banks in a framework where a central bank supplies liquidity to the entire financial system using the commercial banks as intermediares. When the public liquidity is costly, a benevolent central bank sets the optimal ex-post lending rate equal to the marginal social cost of the liquidity provision. The optimal lending rate is decreasing in the ex-ante mutual funds’ investment in short-term assets and it is increasing in the ex-ante investment in long-term assets by mutual funds and banks.
 
 ### {{< fa graduation-cap >}} Bachelor in Economics  &#8729; [Universidad Nacional de Córdoba](https://www.eco.unc.edu.ar/){target="_blank"}  &#8729;  2017
 
