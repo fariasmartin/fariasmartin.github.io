@@ -15,7 +15,7 @@ execute:
 
 website:
   title: "Martin Farias"
-  favicon: images/favicon
+  favicon: static/img/favicon.ico
   site-url: https://www.martin-farias.com
   repo-url: https://github.com/fariasmartin/fariasmartin.github.io
   google-analytics: "G-EBZLN545EX"
