@@ -251,10 +251,17 @@ window.Quarto = {
 
 
 <p>I recently received my PhD in Economics from <a href="https://www.cemfi.es/" target="_blank">CEMFI</a>, Madrid. My research fields include Corporate Finance and Economics of Banking, broadly speaking.</p>
-<p>If you would like to talk to me, book an appointment below:</p>
-<button data-cal-link="martin-farias-f3r7js/30min" data-cal-namespace="30min" data-cal-config="{&quot;layout&quot;:&quot;month_view&quot;}">
-Book an Appointment
-</button>
+<p>If you would like to talk to me, book an appointment below: <button data-cal-link="martin-farias-f3r7js/30min" data-cal-namespace="30min" data-cal-config="{&quot;layout&quot;:&quot;month_view&quot;}" style="
+            background-color: black;   /* Black background */
+            color: white;              /* White text */
+            padding: 15px 30px;        /* Padding to make it more round */
+            text-align: center;        /* Centered text */
+            font-size: 16px;           /* Font size */
+            border-radius: 50px;       /* Fully rounded shape */
+            border: none;              /* No border */
+            cursor: pointer;           /* Pointer on hover */
+            transition: background-color 0.3s ease; /* Smooth transition */
+        "> Book an Appointment </button></p>
 <!-- Cal element-click embed code begins -->
 <script type="text/javascript">
   (function (C, A, L) { let p = function (a, ar) { a.q.push(ar); }; let d = C.document; C.Cal = C.Cal || function () { let cal = C.Cal; let ar = arguments; if (!cal.loaded) { cal.ns = {}; cal.q = cal.q || []; d.head.appendChild(d.createElement("script")).src = A; cal.loaded = true; } if (ar[0] === L) { const api = function () { p(api, arguments); }; const namespace = ar[1]; api.q = api.q || []; if(typeof namespace === "string"){cal.ns[namespace] = cal.ns[namespace] || api;p(cal.ns[namespace], ar);p(cal, ["initNamespace", namespace]);} else p(cal, ar); return;} p(cal, ar); }; })(window, "https://app.cal.com/embed/embed.js", "init");
