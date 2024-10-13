@@ -26,6 +26,7 @@ title-block-banner: true
 ---
 
 I recently received my PhD in Economics from [CEMFI](https://www.cemfi.es/){target="_blank"}, Madrid. My research fields include Corporate Finance and Economics of Banking, broadly speaking.
+
 <!-- 
 If you would like to talk to me, book an appointment below:
 <button data-cal-link="martin-farias-f3r7js/30min" 
@@ -44,6 +45,7 @@ If you would like to talk to me, book an appointment below:
         ">
     Book an Appointment
 </button>
+-->
 
 <!-- Cal element-click embed code begins -->
 <script type="text/javascript">
@@ -52,7 +54,7 @@ If you would like to talk to me, book an appointment below:
   Cal.ns["30min"]("ui", {"styles":{"branding":{"brandColor":"#000000"}},"hideEventTypeDetails":false,"layout":"month_view"});
 </script>
 <!-- Cal element-click embed code ends -->
- -->
+ 
 ## Experience
 
 - **Research Assistant**
