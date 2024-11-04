@@ -25,7 +25,9 @@ page-layout: full
 title-block-banner: true
 ---
 
-I recently received my PhD in Economics from [CEMFI](https://www.cemfi.es/){target="_blank"}, Madrid. My research fields include Corporate Finance and Economics of Banking, broadly speaking.
+I recently joined the [OECD's](https://www.oecd.org/){target="_blank"} [Directorate for Science, Technology and Innovation (STI)](https://www.oecd.org/en/about/directorates/directorate-for-science-technology-and-innovation.html){target="_blank"}, where I am a Junior Economist in the Productivity, Innovation, and Entrepreneurship (PIE) Division. 
+
+Before, I received my PhD in Economics from [CEMFI](https://www.cemfi.es/){target="_blank"}, Madrid. My research interests include, but are not limited to, corporate finance and economics of banking.
 
 <!-- 
 If you would like to talk to me, book an appointment below:
@@ -57,18 +59,20 @@ If you would like to talk to me, book an appointment below:
  
 ## Experience
 
-- **Research Assistant**
+- **Junior Economist** at [OECD](https://www.oecd.org/){target="_blank"}. [November 2024 - present]{style="float:right"} <br>
+I am part of the Productivity, Innovation, and Entrepreneurship (PIE) Division of the [Directorate for Science, Technology and Innovation (STI)](https://www.oecd.org/en/about/directorates/directorate-for-science-technology-and-innovation.html){target="_blank"}.
+- **Research Assistant.**
   - Working under the supervision of [Guillermo Caruana](https://www.cemfi.es/~caruana){target="_blank"}. [January 2022 - July 2024]{style="float:right"}  
   - Working under the supervision of [Guillermo Caruana](https://www.cemfi.es/~caruana){target="_blank"}. [July 2019 - September 2019]{style="float:right"}  
   <br>
-- **Teaching Assistant**
+- **Teaching Assistant.**
   - Corporate Finance, at [CEMFI](https://www.cemfi.es/){target="_blank"}: Teaching assistance for [Javier Suarez](https://www.cemfi.es/~suarez){target="_blank"}. [Spring 2021, 2022]{style="float:right"}
   - Microeconomics, at [CEMFI](https://www.cemfi.es/): Teaching assistance for [Guillermo Caruana](https://www.cemfi.es/~caruana){target="_blank"}. [Fall 2021]{style="float:right"}
   - [Programa Universitario de Gestión Bancor – FCE UNC](https://www.eco.unc.edu.ar/mas-noticias/finalizo-el-programa-universitario-de-gestion-bancor), at [UNC](https://www.eco.unc.edu.ar/){target="_blank"}. [Mar 2018 - Jun 2018]{style="float:right"}  
-  - Introduction to Economics (Profesor Ayudante B), at [Universidad Nacional de Córdoba](https://www.eco.unc.edu.ar/){target="_blank"}.  Feb 2018 - Mar 2018
-  - Statistics II (Profesor Ayudante B), at [Universidad Nacional de Córdoba](https://www.eco.unc.edu.ar/){target="_blank"}. [Oct 2017 - Aug 2018]{style="float:right"}  
+  - Introduction to Economics, at [Universidad Nacional de Córdoba](https://www.eco.unc.edu.ar/){target="_blank"}.  [Feb 2018 - Mar 2018]{style="float:right"}
+  - Statistics II, at [Universidad Nacional de Córdoba](https://www.eco.unc.edu.ar/){target="_blank"}. [Oct 2017 - Aug 2018]{style="float:right"}  
   <br>
-- **Junior Researcher**, at the [Professional Council of Economics of Córdoba](https://cpcecba.org.ar){target="_blank"}. [May 2016 - June 2017]{style="float:right"}  
+- **Junior Researcher** at the [Professional Council of Economics of Córdoba](https://cpcecba.org.ar){target="_blank"}. [May 2016 - June 2017]{style="float:right"}  
 
 ::: {style="text-align: right"}
 [Read more about my experience here →](../experience)

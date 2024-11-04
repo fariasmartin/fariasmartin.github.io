@@ -18,9 +18,10 @@ about:
       target: _blank
 ---
 
-I am a microeconomist specialized in Corporate Finance and Economics of Banking. I received my PhD in Economics from [CEMFI](https://www.cemfi.es/){target="_blank"}.
+I am a Junior Economist at the [OECD's](https://www.oecd.org/){target="_blank"} [Directorate for Science, Technology and Innovation](https://www.oecd.org/en/about/directorates/directorate-for-science-technology-and-innovation.html){target="_blank"}. 
 
-I am currently seeking positions that provide a stimulating and dynamic environment, where I can make a positive impact and contribute to meaningful projects.
+I received my PhD in Economics from [CEMFI](https://www.cemfi.es/){target="_blank"}, where I specialized in Corporate Finance and Economics of Banking.
+
 
 ::: {style="text-align: right"}
 [Read More →](../about)
