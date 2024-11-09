@@ -72,7 +72,7 @@ I am part of the Productivity, Innovation, and Entrepreneurship (PIE) Division o
   - Introduction to Economics, at [Universidad Nacional de Córdoba](https://www.eco.unc.edu.ar/){target="_blank"}.  [Feb 2018 - Mar 2018]{style="float:right"}
   - Statistics II, at [Universidad Nacional de Córdoba](https://www.eco.unc.edu.ar/){target="_blank"}. [Oct 2017 - Aug 2018]{style="float:right"}  
   <br>
-- **Junior Researcher** at the [Professional Council of Economics of Córdoba](https://cpcecba.org.ar){target="_blank"}.. [May 2016 - June 2017]{style="float:right"}  
+- **Junior Researcher** at the [Professional Council of Economics of Córdoba](https://cpcecba.org.ar){target="_blank"}. [May 2016 - June 2017]{style="float:right"}  
 
 ::: {style="text-align: right"}
 [Read more about my experience here →](../experience)
