@@ -20,7 +20,7 @@ about:
 
 I am a Junior Economist at the [OECD's](https://www.oecd.org/){target="_blank"} [Directorate for Science, Technology and Innovation](https://www.oecd.org/en/about/directorates/directorate-for-science-technology-and-innovation.html){target="_blank"}. 
 
-I received my PhD in Economics from [CEMFI](https://www.cemfi.es/){target="_blank"}, where I specialized in Corporate Finance and Economics of Banking. 
+I received my PhD in Economics from [CEMFI](https://www.cemfi.es/){target="_blank"}, where I specialized in Corporate Finance and Economics of Banking.
 
 
 ::: {style="text-align: right"}
