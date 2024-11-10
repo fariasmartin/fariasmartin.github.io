@@ -33,6 +33,8 @@ website:
         file: research/index.qmd
       - text: Education
         file: education/index.qmd
+      - text: Contact
+        file: contact/index.qmd
       # - text: Blog
       #   file: blog/index.qmd
       - text: CV
