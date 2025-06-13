@@ -15,7 +15,7 @@ toc-location: right
 toc-title: Contents
 ---
 
-My research centers on **Corporate Finance** and the **Economics of Banking**. I aim to understand how risks propagate through the financial system and impact households and firms. I am interested in many topics of in corporate finance, particularly in how financial frictions influence firm behavior. Additionally, I seek to apply my knowledge and skill to explore intersections with other relevant topics such as climate change and artificial intelligence, among others. 
+My research focuses on **Corporate Finance** and the **Economics of Banking**, with a particular interest in how financial risks propagate through the system and affect households and firms. I am broadly interested in topics at the intersection of corporate finance and banking, especially the determinants and the effects of firms' capital structure and the evolving role of non-bank financial intermediaries. 
 
 
 :::{#projects}
