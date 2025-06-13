@@ -37,7 +37,7 @@ website:
         file: contact/index.qmd
       # - text: Blog
       #   file: blog/index.qmd
-      - text: CVs
+      - text: CV
         href: https://martin-farias.com/CV/CV-english.pdf
         target: _blank
   page-footer:
