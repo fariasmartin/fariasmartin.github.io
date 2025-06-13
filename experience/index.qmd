@@ -10,10 +10,10 @@ toc-title: Contents
 ---
 
 - **Senior Economist** at [Banks of Spain](https://www.bde.es/){target="_blank"}. [June 2025 - present]{style="float:right"} <br>
-I am part of the Financial Stability and Macroprudential Policy Department of the [Financial Stability, Regulation and Resolution Directorate](https://www.bde.es/wbe/en/sobre-banco/organizacion/estructura/dg-regulacion/){target="_blank"}.
+I am part of the Financial Stability and Macroprudential Policy Department of the [Financial Stability, Regulation and Resolution DG](https://www.bde.es/wbe/en/sobre-banco/organizacion/estructura/dg-regulacion/){target="_blank"}.
     <br/><br/>
 - **Junior Economist** at [OECD](https://www.oecd.org/){target="_blank"}. [November 2024 - May 2025]{style="float:right"} <br>
-I was part of the Productivity, Innovation, and Entrepreneurship (PIE) Division of the [Directorate for Science, Technology and Innovation (STI)](https://www.oecd.org/en/about/directorates/directorate-for-science-technology-and-innovation.html){target="_blank"}. I mainly worked supporting the work on semiconductor ecosystem studies and the [Semiconductor Informal Exchange Network (SIEN)](https://www.oecd.org/en/networks/semiconductor-informal-exchange-network.html){target="_blank"}, which included the following tasks:
+I was part of the Productivity, Innovation, and Entrepreneurship (PIE) Division of the [Directorate for Science, Technology and Innovation (STI)](https://www.oecd.org/en/about/directorates/directorate-for-science-technology-and-innovation.html){target="_blank"}. I mainly worked supporting the semiconductor ecosystem studies and the [Semiconductor Informal Exchange Network (SIEN)](https://www.oecd.org/en/networks/semiconductor-informal-exchange-network.html){target="_blank"}, which included the following tasks:
 
   - Automating data cleaning and management of databases
   - Data analysis and drafting of country studies focused on the semiconductor industry

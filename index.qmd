@@ -18,7 +18,7 @@ about:
       target: _blank
 ---
 
-I am a Senior Economist at the [Banks of Spain's](https://www.bde.es/){target="_blank"} [Financial Stability and Macroprudential Policy Department](https://www.bde.es/wbe/en/sobre-banco/organizacion/estructura/dg-regulacion/){target="_blank"}. 
+I am a Senior Economist at the [Bank of Spain's](https://www.bde.es/){target="_blank"} [Financial Stability and Macroprudential Policy Department](https://www.bde.es/wbe/en/sobre-banco/organizacion/estructura/dg-regulacion/){target="_blank"}. 
 
 <!-- I am a Junior Economist at the [OECD's](https://www.oecd.org/){target="_blank"} [Directorate for Science, Technology and Innovation](https://www.oecd.org/en/about/directorates/directorate-for-science-technology-and-innovation.html){target="_blank"}.
  -->
