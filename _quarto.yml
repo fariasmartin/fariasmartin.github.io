@@ -38,7 +38,8 @@ website:
       # - text: Blog
       #   file: blog/index.qmd
       - text: CV
-        href: https://martin-farias.com/CV/CV-english.pdf
+        href: https://github.com/fariasmartin/fariasmartin.github.io/blob/2034cb22795555731d8d1ece6cf256948640132c/CV/CV-english.pdf 
+        #https://martin-farias.com/CV/CV-english.pdf
         target: _blank
   page-footer:
     left: |
