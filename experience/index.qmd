@@ -9,7 +9,7 @@ toc-location: right
 toc-title: Contents
 ---
 
-- **Senior Economist** at [Banks of Spain](https://www.bde.es/){target="_blank"}. [June 2025 - present]{style="float:right"} <br>
+- **Senior Economist** at [Bank of Spain](https://www.bde.es/){target="_blank"}. [June 2025 - present]{style="float:right"} <br>
 I am part of the Financial Stability and Macroprudential Policy Department of the [Financial Stability, Regulation and Resolution DG](https://www.bde.es/wbe/en/sobre-banco/organizacion/estructura/dg-regulacion/){target="_blank"}.
     <br/><br/>
 - **Junior Economist** at [OECD](https://www.oecd.org/){target="_blank"}. [November 2024 - May 2025]{style="float:right"} <br>
@@ -17,7 +17,7 @@ I was part of the Productivity, Innovation, and Entrepreneurship (PIE) Division 
 
   - Automating data cleaning and management of databases
   - Data analysis and drafting of country studies focused on the semiconductor industry
-  - Drafting boxes and sections for papers which I presented in SIEN
+  - Drafting boxes and sections for papers which I presented in [SIEN](https://www.oecd.org/en/networks/semiconductor-informal-exchange-network.html){target="_blank"}
 
   I also contributed to other workstreams within the Division by writing research proposals and participating in the provision of policy advice to a European country which received a grant from [DG REFORM](https://commission.europa.eu/about/departments-and-executive-agencies/structural-reform-support_en){target="_blank"}.
     <br/><br/>
