@@ -25,12 +25,13 @@ page-layout: full
 title-block-banner: true
 ---
 
-I recently joined the [OECD's](https://www.oecd.org/){target="_blank"} [Directorate for Science, Technology and Innovation (STI)](https://www.oecd.org/en/about/directorates/directorate-for-science-technology-and-innovation.html){target="_blank"}, where I am a Junior Economist in the Productivity, Innovation, and Entrepreneurship (PIE) Division. 
-
-Before, I received my PhD in Economics from [CEMFI](https://www.cemfi.es/){target="_blank"}, Madrid. During my PhD, my researched focused on corporate finance and economics of banking.
+I am a Senior Economist at the [Banks of Spain's](https://www.bde.es/){target="_blank"} [Financial Stability and Macroprudential Policy Department](https://www.bde.es/wbe/en/sobre-banco/organizacion/estructura/dg-regulacion/){target="_blank"}. 
 
 
-If you would like to talk to me, email me at [martin.farias@oecd.org](mailto:martin.farias@oecd.org) or <button data-cal-link="martin-farias-f3r7js/45min" 
+Previously, I was a Junior Economist at the [OECD's](https://www.oecd.org/){target="_blank"} [Directorate for Science, Technology and Innovation](https://www.oecd.org/en/about/directorates/directorate-for-science-technology-and-innovation.html){target="_blank"}. I received my PhD in Economics from [CEMFI](https://www.cemfi.es/){target="_blank"}, where my research focused on corporate finance and economics of banking.
+
+
+If you would like to talk to me, email me at [martin.farias@bde.es](mailto:martin.farias@bde.es) or <button data-cal-link="martin-farias-f3r7js/45min" 
         data-cal-namespace="45min" 
         data-cal-config='{"layout":"month_view"}'
         style="
@@ -67,8 +68,10 @@ Cal("init", "45min", {origin:"https://cal.com"});
   
 ## Experience
 
+- **Senior Economist** at [Banks of Spain](https://www.bde.es/){target="_blank"}. [June 2025 - present]{style="float:right"} <br>
+I am part of the Financial Stability and Macroprudential Policy Department of the [Financial Stability, Regulation and Resolution Directorate](https://www.bde.es/wbe/en/sobre-banco/organizacion/estructura/dg-regulacion/){target="_blank"}.
 - **Junior Economist** at [OECD](https://www.oecd.org/){target="_blank"}. [November 2024 - present]{style="float:right"} <br>
-I am part of the Productivity, Innovation, and Entrepreneurship (PIE) Division of the [Directorate for Science, Technology and Innovation (STI)](https://www.oecd.org/en/about/directorates/directorate-for-science-technology-and-innovation.html){target="_blank"}.
+I was part of the Productivity, Innovation, and Entrepreneurship (PIE) Division of the [Directorate for Science, Technology and Innovation (STI)](https://www.oecd.org/en/about/directorates/directorate-for-science-technology-and-innovation.html){target="_blank"}.
 - **Research Assistant.**
   - Working under the supervision of [Guillermo Caruana](https://www.cemfi.es/~caruana){target="_blank"}. [January 2022 - July 2024]{style="float:right"}  
   - Working under the supervision of [Guillermo Caruana](https://www.cemfi.es/~caruana){target="_blank"}. [July 2019 - September 2019]{style="float:right"}  
