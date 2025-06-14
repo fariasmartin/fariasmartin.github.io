@@ -25,7 +25,7 @@ page-layout: full
 title-block-banner: true
 ---
 
-I am a Senior Economist at the [Bank of Spain's](https://www.bde.es/){target="_blank"} [Financial Stability and Macroprudential Policy Department](https://www.bde.es/wbe/en/sobre-banco/organizacion/estructura/dg-regulacion/){target="_blank"}. 
+I am part of the Financial Stability and Macroprudential Policy Department of the [Financial Stability, Regulation and Resolution DG](https://www.bde.es/wbe/en/sobre-banco/organizacion/estructura/dg-regulacion/){target="_blank"}. 
 
 
 Previously, I was a Junior Economist at the [OECD's](https://www.oecd.org/){target="_blank"} [Directorate for Science, Technology and Innovation](https://www.oecd.org/en/about/directorates/directorate-for-science-technology-and-innovation.html){target="_blank"}. I received my PhD in Economics from [CEMFI](https://www.cemfi.es/){target="_blank"}, where my research focused on corporate finance and economics of banking.
@@ -69,7 +69,7 @@ Cal("init", "45min", {origin:"https://cal.com"});
 ## Experience
 
 - **Senior Economist** at [Bank of Spain](https://www.bde.es/){target="_blank"}. [June 2025 - present]{style="float:right"} <br>
-I am part of the Financial Stability and Macroprudential Policy Department of the [Financial Stability, Regulation and Resolution Directorate](https://www.bde.es/wbe/en/sobre-banco/organizacion/estructura/dg-regulacion/){target="_blank"}.
+I am part of the Financial Stability and Macroprudential Policy Department of the [Financial Stability, Regulation and Resolution DG](https://www.bde.es/wbe/en/sobre-banco/organizacion/estructura/dg-regulacion/){target="_blank"}.
 - **Junior Economist** at [OECD](https://www.oecd.org/){target="_blank"}. [November 2024 - May 2025]{style="float:right"} <br>
 I was part of the Productivity, Innovation, and Entrepreneurship (PIE) Division of the [Directorate for Science, Technology and Innovation (STI)](https://www.oecd.org/en/about/directorates/directorate-for-science-technology-and-innovation.html){target="_blank"}.
 - **Research Assistant.**
