@@ -7,7 +7,7 @@ author:
     url: https://www.martin-farias.com/
     affiliation: CEMFI
   
-image: img/F3a-cropped.png
+#image: img/F3a-cropped.png
 status: working-papers
 pub-info:
   links:

@@ -1,7 +1,7 @@
 ```{=html}
 <div class="list research">
     <% for (const item of items) { %>
-        <% if (item.status == "working-papers") { %>        
+        <% if (item.status == "working-papers" || item.status == "policy-papers") { %>        
             <div class="research-entry" <%= metadataAttrs(item) %>>
                 <div class="body">
                     <p class="title listing-title">
@@ -11,9 +11,11 @@
                             <a href="<%- item.path %>"><%= item.title %></a>
                         <% } %>
                     </p>
+                    <!--
                     <p class="subtitle listing-subtitle">
                         <%= item.subtitle %>
-                    </p>
+                    </p> 
+                    -->
                     <% if (item.authors) { %>
                         <% coauthors = item.authors.filter(author => author.name != "Martin Farias") %>
                         <% n_coauthors = coauthors.length %>
@@ -48,6 +50,7 @@
                         <% } %>
                     </div>
                     <% } %>
+                    <!--
                     <ul class="research-links">
                         <% if (item['pub-info'] && item['pub-info'].links) { %>
                             <% for (const link of item['pub-info'].links) { %>
@@ -63,6 +66,7 @@
                             <% } %>
                         <% } %>
                     </ul>
+                    -->
                 </div>
                 
                 <% if (item.image) { %>
@@ -71,7 +75,9 @@
                 </div>
                 <% } %>
             </div>
+            <!-- 
             <br>
+             -->
         <% } %>
     <% } %>
 </div>

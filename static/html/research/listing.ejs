@@ -1,13 +1,16 @@
 ```{=html}
 <div class="list research">
+    <% items_pp = items.filter(item => item.status == "policy-papers") %>
     <% items_wp = items.filter(item => item.status == "working-papers") %>
     <% items_wip = items.filter(item => item.status == "work-in-progress") %>
-    <% for (const items of [items_wp, items_wip]) { %>
+    <% for (const items of [items_wp, items_pp, items_wip]) { %>
         <% if (items.length > 0) { %>
             <% if (items[0].status == "working-papers") { %>
-                <h2>WORKING PAPERS</h2>
+                <h2>Working papers</h2>
+            <% } else if (items[0].status == "policy-papers") { %>
+                <h2>Policy papers</h2>
             <% } else { %>
-                <h2>WORK IN PROGRESS</h2>
+                <h2>Work in progress</h2>
             <% } %>
             <% for (const item of items) { %>
                 <div class="research-entry" <%= metadataAttrs(item) %>>

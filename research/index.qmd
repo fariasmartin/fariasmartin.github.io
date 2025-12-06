@@ -15,10 +15,9 @@ toc-location: right
 toc-title: Contents
 ---
 
-My research focuses on **Corporate Finance** and the **Economics of Banking**, with a particular interest in how financial risks propagate through the system and affect households and firms. I am broadly interested in topics at the intersection of corporate finance and banking, especially the determinants and the effects of firms' capital structure and the evolving role of non-bank financial intermediaries. 
+My research focuses on **Corporate Finance** and the **Economics of Banking**, with a particular interest in how financial risks propagate through the system and affect households and firms. I am broadly interested in topics at the intersection of corporate finance and banking, especially the determinants and the effects of firms' capital structure and the evolving role of non-bank financial intermediaries.
 
-
-:::{#projects}
+:::{#research}
 :::
 
 {{< ai blank-just-to-add-ai-dependency-to-this-page >}}

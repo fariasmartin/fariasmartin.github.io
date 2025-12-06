@@ -2,12 +2,12 @@
 title: "About"
 
 listing:
-  - id: research
-    contents: ../research/**/index.qmd
-    sort: "title desc"
-    type: default
-    categories: false
-    template: ../static/html/about/research.ejs
+  #- id: research
+  #  contents: ../research/**/index.qmd
+  #  sort: "title desc"
+  #  type: default
+  #  categories: false
+  #  template: ../static/html/about/research.ejs
   - id: blog
     contents: ../blog/*/**/index.qmd
     sort: "date desc"
@@ -17,7 +17,7 @@ listing:
     filter-ui: false
     max-items: 1
     template: ../static/html/about/blog.ejs
-  # - id: talks
+  # - id: talksP
   #   contents: ../talks/talks_2023.yml
   #   sort: "date desc"
   #   template: ../static/html/about/talks.ejs
@@ -92,13 +92,13 @@ I was part of the Productivity, Innovation, and Entrepreneurship (PIE) Division 
 
 
 
-## Working papers
+## Research
 
-:::{#research}
-:::
+My research focuses on **Corporate Finance** and the **Economics of Banking**, with a particular interest in how financial risks propagate through the system and affect households and firms. I am broadly interested in topics at the intersection of corporate finance and banking, especially the determinants and the effects of firms' capital structure and the evolving role of non-bank financial intermediaries.
+
 
 ::: {style="text-align: right"}
-[Read more details about my papers here →](../research)
+[Read more about my current projects here →](../research)
 :::
 
 ## Education

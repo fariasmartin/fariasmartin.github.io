@@ -1,0 +1,50 @@
+---
+title: "Análisis del mercado de crédito privado en España"
+subtitle: "Este artículo presenta una panorámica general de la evolución del mercado de crédito privado en España."
+date: 2025-12-04
+authors:
+  - name: Martin Farias
+    url: https://www.martin-farias.com/
+    target: _blank
+    affiliation: Banco de España
+  - name: Esther Cáceres
+    url: 
+    target: _blank
+    affiliation: Banco de España
+  - name: Gianmarco Ruzzier
+    url: https://www.gianmarcoruzzier.com
+    target: _blank
+    affiliation: Banco de España
+  - name: Clara (Chi) Xu
+    url: https://www.chiclaraxu.com
+    target: _blank
+    affiliation: University of Pennsylvania
+  
+# image: img/F5-a-b.png
+status: policy-papers
+pub-info:
+  links:
+    - name: "Revista de Estabilidad Financiera (Banco de España). Número 49. Otoño 2025"
+      url: https://www.bde.es/f/webbe/GAP/Secciones/Publicaciones/InformesBoletinesRevistas/RevistaEstabilidadFinanciera/25/1_REF49_Credito.pdf
+      icon: fa-solid fa-file-pdf
+pub-status: 
+  status: Writing
+  class: warning
+  icon: fa-solid fa-pencil
+#   status: Under review
+#   class: success
+#   icon: fas fa-glasses
+---
+
+## Abstract
+
+El mercado de crédito privado ha experimentado un crecimiento notable en los últimos años, posicionándose como una alternativa a la financiación bancaria tradicional. Aunque aún representa una fracción pequeña del crédito corporativo total, especialmente en España, su evolución refleja una creciente sofisticación y diversificación, lo que ha despertado el interés de los supervisores por llevar a cabo una monitorización más rigurosa para preservar la estabilidad del sistema financiero. En España, las empresas que recurren al crédito privado son mayoritariamente de los sectores de tecnología, comunicaciones, industria y comercio. Además, suelen ser más grandes, aunque no más rentables ni más apalancadas. La participación predominante de prestamistas no bancarios y de capital extranjero, especialmente de Estados Unidos y Francia, evidencia la internacionalización del mercado español y su interconexión con el sistema financiero global. Las operaciones de crédito privado se caracterizan por tener mayores volúmenes, plazos más largos y tipos de interés más elevados que los préstamos bancarios, y por reflejar un perfil de riesgo distinto y una mayor flexibilidad contractual. El artículo analiza estas dinámicas con el objetivo de describir la situación actual del mercado de crédito privado en España y sus implicaciones para la estabilidad financiera.
+
+## Gráficos y cuadros importantes
+
+![Gráfico 3c. Capital invertido en el mercado de crédito privado en España.](img/F1.png)
+
+![Cuadro 1. Características de las empresas de la CBI en función del tipo de financiación que reciben.](img/C1.png)
+
+
+{{< ai blank-just-to-add-ai-dependency-to-this-page >}}
