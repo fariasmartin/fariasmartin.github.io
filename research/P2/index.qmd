@@ -5,7 +5,7 @@ date: 2024-03-22
 author:
   - name: Martin Farias
     url: https://www.martin-farias.com/
-    affiliation: CEMFI
+    affiliation: Banco de España
   
 #image: img/F3a-cropped.png
 status: working-papers

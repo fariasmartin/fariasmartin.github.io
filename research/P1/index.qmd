@@ -5,7 +5,7 @@ date: 2024-05-01
 authors:
   - name: Martin Farias
     url: https://www.martin-farias.com/
-    affiliation: CEMFI
+    affiliation: Banco de España
   - name: Javier Suarez
     url: https://www.cemfi.es/~suarez/
     affiliation: CEMFI & CEPR
