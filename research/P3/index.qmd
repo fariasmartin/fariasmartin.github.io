@@ -6,7 +6,7 @@ author:
   - name: Martin Farias
     url: https://www.martin-farias.com/
     target: _blank
-    affiliation: CEMFI
+    affiliation: Banco de España
   # - name: Javier Suarez
   #   url: https://www.cemfi.es/~suarez/
   #   affiliation: CEMFI & CEPR
