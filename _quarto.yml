@@ -3,7 +3,11 @@
 project:
   type: website
   output-dir: docs
-  preview: 
+  resources:
+    - "CV/**"
+    - "research/**/*.pdf"
+    - "education/**/*.pdf"
+  preview:
     port: 5556
     browser: true
     watch-inputs: true
@@ -22,8 +26,10 @@ website:
   twitter-card:
     creator: "@jmartin_farias"
     site: "@jmartin_farias"
-  open-graph: true
+  open-graph:
+    image: /images/profile14.jpg
   navbar:
+    search: true
     right:
       - text: About
         file: about/index.qmd
@@ -40,9 +46,14 @@ website:
       - text: CV
         href: https://martin-farias.com/CV/CV-english.pdf
         target: _blank
-#  page-footer:
-#    left: |
-#      <span class="faux-block"> I borrowed the template for this website from <a href="https://kazuyanagimoto.com/" target="_blank">Kazuharu Yanagimoto</a></span>  
+  page-footer:
+    left: |
+      <span class="faux-block">© 2025 Martin Farias</span>
+      <span class="faux-block"><a href="mailto:martin.farias@bde.es">martin.farias@bde.es</a></span>
+    right: |
+      <span class="faux-block"><a href="https://www.linkedin.com/in/martin-farias-b04052137/" target="_blank">LinkedIn</a></span>
+      <span class="faux-block"><a href="https://github.com/fariasmartin" target="_blank">GitHub</a></span>
+      <span class="faux-block"><a href="https://twitter.com/jmartin_farias" target="_blank">X / Twitter</a></span>
 
 format:
   html:

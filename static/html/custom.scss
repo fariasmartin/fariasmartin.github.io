@@ -464,6 +464,11 @@ $footer-fg: $gray-500 !default;
     }
 }
 
+// Navbar separator
+.navbar {
+    border-bottom: 1px solid $gray-200;
+}
+
 // footer
 
 .nav-footer {
