@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.martin-farias.com/blog/index.html</loc>
-    <lastmod>2025-12-06T12:08:58.247Z</lastmod>
+    <lastmod>2026-02-27T19:44:11.426Z</lastmod>
   </url>
   <url>
     <loc>https://www.martin-farias.com/about/index.html</loc>
@@ -43,5 +43,9 @@
   <url>
     <loc>https://www.martin-farias.com/index.html</loc>
     <lastmod>2026-02-27T19:27:58.308Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.martin-farias.com/blog/first-post/index.html</loc>
+    <lastmod>2026-02-27T19:47:58.425Z</lastmod>
   </url>
 </urlset>

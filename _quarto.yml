@@ -20,7 +20,7 @@ execute:
 website:
   title: "Martin Farias"
   favicon: static/img/favicon.ico
-  site-url: https://www.martin-farias.com
+  site-url: https://www.martinfarias.es
   repo-url: https://github.com/fariasmartin/fariasmartin.github.io
   google-analytics: "G-EBZLN545EX"
   twitter-card:
