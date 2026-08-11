@@ -44,7 +44,7 @@ website:
       - text: Blog
         file: blog/index.qmd
       - text: CV
-        href: https://martin-farias.com/CV/CV-english.pdf
+        href: https://martinfarias.es/CV/CV-english.pdf
         target: _blank
   page-footer:
     left: |
