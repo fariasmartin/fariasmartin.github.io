@@ -1,115 +1,59 @@
 [
   {
-    "objectID": "blog/index.html",
-    "href": "blog/index.html",
-    "title": "Blog",
+    "objectID": "blog/first-post/index.html",
+    "href": "blog/first-post/index.html",
+    "title": "My First Post",
     "section": "",
-    "text": "An informal space to share ideas, discuss findings, and reflect on topics I find interesting.\n\n\n    \n    \n                  \n            Feb 27, 2026\n        \n        \n            My First Post\n            \n            \n                \n                \n                    Economics\n                \n                \n                \n                    Research\n                \n                \n            \n            \n            A short description of what this post is about. This text appears in the blog listing.\n        \n        \n        \n            \n        \n        \n    \n    \n\nNo matching items"
+    "text": "Write your post content here using standard Markdown."
   },
   {
-    "objectID": "about/index.html",
-    "href": "about/index.html",
-    "title": "About",
+    "objectID": "blog/first-post/index.html#figures",
+    "href": "blog/first-post/index.html#figures",
+    "title": "My First Post",
+    "section": "Figures",
+    "text": "Figures\nTo add a figure, place the image file in this post’s folder and reference it:\n\n\n\nA descriptive caption for the figure.\n\n\nFor a smaller or centered figure, you can control the width:\n\n\n\nCaption here.\n\n\nYou can also give figures a label to cross-reference them in the text (e.g. “as shown in Figure 1”):\n\n\n\n\n\n\nFigure 1: Caption here."
+  },
+  {
+    "objectID": "blog/first-post/index.html#tables",
+    "href": "blog/first-post/index.html#tables",
+    "title": "My First Post",
+    "section": "Tables",
+    "text": "Tables\nStandard Markdown tables:\n\nA caption for the table.\n\n\n\n\n\n\n\nCountry\nGDP growth\nInflation\n\n\n\n\nSpain\n2.5%\n3.1%\n\n\nGermany\n0.2%\n2.8%\n\n\nFrance\n1.1%\n2.4%\n\n\n\nYou can also reference tables with a label (e.g. “as in Table 1”):\n\n\n\nTable 1: Table caption.\n\n\n\n\n\nA\nB\n\n\n\n\n1\n2"
+  },
+  {
+    "objectID": "blog/first-post/index.html#equations",
+    "href": "blog/first-post/index.html#equations",
+    "title": "My First Post",
+    "section": "Equations",
+    "text": "Equations\nInline: \\(y = \\beta_0 + \\beta_1 x\\)\nDisplayed:\n\\[\n\\hat{\\beta} = (X'X)^{-1}X'y\n\\tag{1}\\]\n\nTo write a new post: duplicate the blog/first-post/ folder, rename it (e.g. blog/my-new-post/), and edit index.qmd inside it."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Martin Farias",
     "section": "",
-    "text": "I am part of the Financial Stability and Macroprudential Policy Department of the Financial Stability, Regulation and Resolution DG.\nPreviously, I was a Junior Economist at the OECD’s Directorate for Science, Technology and Innovation. I received my PhD in Economics from CEMFI, where my research focused on corporate finance and economics of banking.\nIf you would like to talk to me, email me at martin.farias@bde.es or  book an appointment here."
+    "text": "I am a Senior Economist at the Bank of Spain’s Financial Stability and Macroprudential Policy Department.\n\nPreviously, I was a Junior Economist at the OECD’s Directorate for Science, Technology and Innovation (STI). I received my PhD in Economics from CEMFI, where my research focused on corporate finance and economics of banking.\n\nRead More →"
   },
   {
-    "objectID": "about/index.html#experience",
-    "href": "about/index.html#experience",
-    "title": "About",
-    "section": "Experience",
-    "text": "Experience\n\nSenior Economist at Bank of Spain. June 2025 - present  I am part of the Financial Stability and Macroprudential Policy Department of the Financial Stability, Regulation and Resolution DG.\nJunior Economist at OECD. November 2024 - May 2025  I was part of the Productivity, Innovation, and Entrepreneurship (PIE) Division of the Directorate for Science, Technology and Innovation (STI).\nResearch Assistant.\n\nWorking under the supervision of Guillermo Caruana. January 2022 - July 2024\n\nWorking under the supervision of Guillermo Caruana. July 2019 - September 2019\n\n\nTeaching Assistant.\n\nCorporate Finance, at CEMFI: Teaching assistance for Javier Suarez. Spring 2021, 2022\nMicroeconomics, at CEMFI: Teaching assistance for Guillermo Caruana. Fall 2021\nPrograma Universitario de Gestión Bancor – FCE UNC, at UNC. Mar 2018 - Jun 2018\n\nIntroduction to Economics, at Universidad Nacional de Córdoba. Feb 2018 - Mar 2018\nStatistics II, at Universidad Nacional de Córdoba. Oct 2017 - Aug 2018\n\n\nJunior Researcher at the Professional Council of Economics of Córdoba. May 2016 - June 2017\n\n\nRead more about my experience here →"
-  },
-  {
-    "objectID": "about/index.html#research",
-    "href": "about/index.html#research",
-    "title": "About",
-    "section": "Research",
-    "text": "Research\nMy research focuses on Corporate Finance and the Economics of Banking, with a particular interest in how financial risks propagate through the system and affect households and firms. I am broadly interested in topics at the intersection of corporate finance and banking, especially the determinants and the effects of firms’ capital structure and the evolving role of non-bank financial intermediaries.\n\nRead more about my current projects here →"
-  },
-  {
-    "objectID": "about/index.html#education",
-    "href": "about/index.html#education",
-    "title": "About",
-    "section": "Education",
-    "text": "Education\n PhD in Economics and Government ∙ CEMFI ∙ 2024\n Master in Economics and Finance ∙ CEMFI ∙ 2020\n Bachelor in Economics ∙ Universidad Nacional de Córdoba ∙ 2017\n\nRead more about my education here →"
-  },
-  {
-    "objectID": "research/P1/index.html",
-    "href": "research/P1/index.html",
-    "title": "A Model of Interacting Banks and Money Market Funds",
+    "objectID": "education/index.html",
+    "href": "education/index.html",
+    "title": "Education",
     "section": "",
-    "text": "We examine the interaction between banks and Money Market Funds (MMFs) in a setup where the latter can experience large redemptions following an aggregate liquidity shock (as in March 2020). In the model, MMFs and bank deposits are alternatives for firms’ management of their cash holdings. MMFs experiencing correlated redemptions get forced to sell assets to banks in narrow markets, producing asset price declines. Ex post the price declines damage firms’ capacity to cover their needs with the redeemed shares. Ex ante the prospect of such an effect reduces the attractiveness of MMFs relative to bank deposits. Yet the equilibrium allocation of firms’ savings exhibits an excessive reliance on MMFs since firms fail to internalize their effect on the size of the pecuniary externalities caused by future redemptions. This provides a rationale, distinct from first-mover advantages, for the macroprudential regulation of the investment in MMFs."
+    "text": "PhD in Economics and Government ∙ CEMFI ∙ 2024\nPhD Committee: Samuel Bentolila, Rafael Repullo, and Javier Suarez (supervisor).\nThesis: “Essays on Banking and Corporate Finance”.\nThis dissertation contributes to the discussion of how different types of imperfections in the relationship between firms and financial intermediaries can potentially affect the real and financial performance of firms, their financial vulnerability, the channeling of funds to different types of financial intermediaries, and the stability of the financial system.\nRelevant short courses\n\nMacroeconomics and Climate Change, by John Hassler and Per Krusell.\nTopics: The natural science of climate change, climate damages, natural resource economics, directed technical change, good and bad climate policies.\nMachine Learning in Finance, by Ansgar Walther.\nTopics: Supervised and unsupervised machine learning models, reinforcement learning, interpretability and causal inference in machine learning.\nIntroduction to Experimental Analysis, by Dmitry Arkhangelsky.\nTopics: Static A/B testing, adaptive experiments, dynamic experiments.\nUnstructured Data in Empirical Economics, by Stephen Hansen.\nTopics: The bag-of-words model, latent Dirichlet allocation, word embedding models, large language models, convolutional neural networks.\n\n\n\n Master in Economics and Finance ∙ CEMFI ∙ 2020\nCourses: Mathematics, Microeconomics, Statistics, Uncertainty and Information, Macroeconomics I and II, Econometrics, Industrial Economics, Corporate Finance, Microeconometrics, Economics of Banking, Quantitative Macroeconomics, International Economics, International Macroeconomics, Topics in Empirical Economics.\nMaster thesis: “Public Supply of Liquidity to Mutual Funds”, supervised by Javier Suarez.\n\n\n Bachelor in Economics ∙ Universidad Nacional de Córdoba ∙ 2017\nIn my bachelor I specialized in Quantitative Methods. My thesis supervisor was Alfredo Schclarek Curutchet, and I worked as teaching and research assistant to Ángel Enrique (riqui) Neder.\nI would like to highlight the following course that I attended in my last year at Córdoba:\n\nPrograma de Formación en Normas, Prácticas y Técnicas Bancarias, by BCRA and ABAPPRA (90 hours). Topics: Regulation and supervision of financial institutions; Active operations (Loans); Passive operations; Capital markets; Financial risks; Credit standards; Liquidity, solvency, and dividends; Bank accounting and external auditing; Foreign exchange; User protection; Information security; Security in financial institutions; Payment system."
   },
   {
-    "objectID": "research/P1/index.html#abstract",
-    "href": "research/P1/index.html#abstract",
-    "title": "A Model of Interacting Banks and Money Market Funds",
+    "objectID": "contact/index.html",
+    "href": "contact/index.html",
+    "title": "Contact",
     "section": "",
-    "text": "We examine the interaction between banks and Money Market Funds (MMFs) in a setup where the latter can experience large redemptions following an aggregate liquidity shock (as in March 2020). In the model, MMFs and bank deposits are alternatives for firms’ management of their cash holdings. MMFs experiencing correlated redemptions get forced to sell assets to banks in narrow markets, producing asset price declines. Ex post the price declines damage firms’ capacity to cover their needs with the redeemed shares. Ex ante the prospect of such an effect reduces the attractiveness of MMFs relative to bank deposits. Yet the equilibrium allocation of firms’ savings exhibits an excessive reliance on MMFs since firms fail to internalize their effect on the size of the pecuniary externalities caused by future redemptions. This provides a rationale, distinct from first-mover advantages, for the macroprudential regulation of the investment in MMFs."
+    "text": "If you would like to reach out directly, feel free to email me at martin.farias@bde.es.\nYou are welcome to schedule a virtual meeting using the booking tool below. This space is intended for connecting with those who share similar interests and motivations, as well as for offering guidance to others in their professional journeys—just as I have been supported in mine. Please do not hesitate to reserve a time if you think I can assist you, if you would like to learn more about my career, or if there is anything else you would like to discuss."
   },
   {
-    "objectID": "research/P1/index.html#bibtex-citation",
-    "href": "research/P1/index.html#bibtex-citation",
-    "title": "A Model of Interacting Banks and Money Market Funds",
-    "section": "BibTeX citation",
-    "text": "BibTeX citation\n@article{farias2024model,\n  title={A Model of Interacting Banks and Money Market Funds},\n  author={Farias, Martin and Suarez, Javier},\n  year={2024}\n}"
-  },
-  {
-    "objectID": "research/REF_credito_2025/index.html",
-    "href": "research/REF_credito_2025/index.html",
-    "title": "Análisis del mercado de crédito privado en España",
+    "objectID": "research/index.html",
+    "href": "research/index.html",
+    "title": "Research",
     "section": "",
-    "text": "El mercado de crédito privado ha experimentado un crecimiento notable en los últimos años, posicionándose como una alternativa a la financiación bancaria tradicional. Aunque aún representa una fracción pequeña del crédito corporativo total, especialmente en España, su evolución refleja una creciente sofisticación y diversificación, lo que ha despertado el interés de los supervisores por llevar a cabo una monitorización más rigurosa para preservar la estabilidad del sistema financiero. En España, las empresas que recurren al crédito privado son mayoritariamente de los sectores de tecnología, comunicaciones, industria y comercio. Además, suelen ser más grandes, aunque no más rentables ni más apalancadas. La participación predominante de prestamistas no bancarios y de capital extranjero, especialmente de Estados Unidos y Francia, evidencia la internacionalización del mercado español y su interconexión con el sistema financiero global. Las operaciones de crédito privado se caracterizan por tener mayores volúmenes, plazos más largos y tipos de interés más elevados que los préstamos bancarios, y por reflejar un perfil de riesgo distinto y una mayor flexibilidad contractual. El artículo analiza estas dinámicas con el objetivo de describir la situación actual del mercado de crédito privado en España y sus implicaciones para la estabilidad financiera."
-  },
-  {
-    "objectID": "research/REF_credito_2025/index.html#abstract",
-    "href": "research/REF_credito_2025/index.html#abstract",
-    "title": "Análisis del mercado de crédito privado en España",
-    "section": "",
-    "text": "El mercado de crédito privado ha experimentado un crecimiento notable en los últimos años, posicionándose como una alternativa a la financiación bancaria tradicional. Aunque aún representa una fracción pequeña del crédito corporativo total, especialmente en España, su evolución refleja una creciente sofisticación y diversificación, lo que ha despertado el interés de los supervisores por llevar a cabo una monitorización más rigurosa para preservar la estabilidad del sistema financiero. En España, las empresas que recurren al crédito privado son mayoritariamente de los sectores de tecnología, comunicaciones, industria y comercio. Además, suelen ser más grandes, aunque no más rentables ni más apalancadas. La participación predominante de prestamistas no bancarios y de capital extranjero, especialmente de Estados Unidos y Francia, evidencia la internacionalización del mercado español y su interconexión con el sistema financiero global. Las operaciones de crédito privado se caracterizan por tener mayores volúmenes, plazos más largos y tipos de interés más elevados que los préstamos bancarios, y por reflejar un perfil de riesgo distinto y una mayor flexibilidad contractual. El artículo analiza estas dinámicas con el objetivo de describir la situación actual del mercado de crédito privado en España y sus implicaciones para la estabilidad financiera."
-  },
-  {
-    "objectID": "research/REF_credito_2025/index.html#gráficos-y-cuadros-importantes",
-    "href": "research/REF_credito_2025/index.html#gráficos-y-cuadros-importantes",
-    "title": "Análisis del mercado de crédito privado en España",
-    "section": "Gráficos y cuadros importantes",
-    "text": "Gráficos y cuadros importantes\n\n\n\nGráfico 3c. Capital invertido en el mercado de crédito privado en España.\n\n\n\n\n\nCuadro 1. Características de las empresas de la CBI en función del tipo de financiación que reciben."
-  },
-  {
-    "objectID": "research/P3/index.html",
-    "href": "research/P3/index.html",
-    "title": "Decoding Distress: The Behavior of Firms Preceding Bankruptcy",
-    "section": "",
-    "text": "This article offers evidence of the behavior and performance of Spanish firms preceding bankruptcy. I estimate a predictive model of bankruptcy which shows that the most important predictors of bankruptcy include measures of equity (net worth), proﬁtability, size, and dividends, as well as the growth rate of aggregate credit. I complement the insights provided by the predictive model with an exploration of the dynamics of firms in the five years preceding bankruptcy, comparing it with the dynamics of firms before exiting the market without filing for bankruptcy. I find that firms arrive at the point of filing for bankruptcy in a very distressed financial situation, after experiencing greater decreases in earnings and equity than firms exiting the market without filing for bankruptcy. Despite this, other measures of the real and financial performance of these firms (investment rates, growth rates of employees, cash savings, and growth rate of account receivables) are mostly similar across the two groups of firms."
-  },
-  {
-    "objectID": "research/P3/index.html#abstract",
-    "href": "research/P3/index.html#abstract",
-    "title": "Decoding Distress: The Behavior of Firms Preceding Bankruptcy",
-    "section": "",
-    "text": "This article offers evidence of the behavior and performance of Spanish firms preceding bankruptcy. I estimate a predictive model of bankruptcy which shows that the most important predictors of bankruptcy include measures of equity (net worth), proﬁtability, size, and dividends, as well as the growth rate of aggregate credit. I complement the insights provided by the predictive model with an exploration of the dynamics of firms in the five years preceding bankruptcy, comparing it with the dynamics of firms before exiting the market without filing for bankruptcy. I find that firms arrive at the point of filing for bankruptcy in a very distressed financial situation, after experiencing greater decreases in earnings and equity than firms exiting the market without filing for bankruptcy. Despite this, other measures of the real and financial performance of these firms (investment rates, growth rates of employees, cash savings, and growth rate of account receivables) are mostly similar across the two groups of firms."
-  },
-  {
-    "objectID": "research/P3/index.html#important-figures",
-    "href": "research/P3/index.html#important-figures",
-    "title": "Decoding Distress: The Behavior of Firms Preceding Bankruptcy",
-    "section": "Important figures",
-    "text": "Important figures\n\n\n\nFIGURE 3. Importance of each of the 15 most important covariates in the predictive model associated with \\(\\lambda_{min}\\).\n\n\n\n\n\nFIGURE 5 (Panels a & b). Earnings and equity of bankrupt and exiting firms."
-  },
-  {
-    "objectID": "research/P3/index.html#bibtex-citation",
-    "href": "research/P3/index.html#bibtex-citation",
-    "title": "Decoding Distress: The Behavior of Firms Preceding Bankruptcy",
-    "section": "BibTeX citation",
-    "text": "BibTeX citation\n@article{farias2024model,\n  title={The Allocation of Cash Flow by Spanish Firms: New Evidence on the Impact of Financial Frictions},\n  author={Farias, Martin},\n  year={2024}\n}"
-  },
-  {
-    "objectID": "experience/index.html",
-    "href": "experience/index.html",
-    "title": "Experience",
-    "section": "",
-    "text": "Senior Economist at Bank of Spain. June 2025 - present  I am part of the Financial Stability and Macroprudential Policy Department of the Financial Stability, Regulation and Resolution DG. \nJunior Economist at OECD. November 2024 - May 2025  I was part of the Productivity, Innovation, and Entrepreneurship (PIE) Division of the Directorate for Science, Technology and Innovation (STI). I mainly worked supporting the semiconductor ecosystem studies and the Semiconductor Informal Exchange Network (SIEN), which included the following tasks:\n\nAutomating data cleaning and management of databases\nData analysis and drafting of country studies focused on the semiconductor industry\nDrafting boxes and sections for papers which I presented in SIEN\n\nI also contributed to other workstreams within the Division by writing research proposals and participating in the provision of policy advice to a European country which received a grant from DG REFORM. \nResearch Assistant\n\nWorking under the supervision of Guillermo Caruana. January 2022 - July 2024\nMy tasks included:\n\nUsing the API of a popular mobile game Clash Royale to track the behavior of users over time.\nCleaning the data and using it to study the prevalence of loss aversion and its interaction with fatigue.\nWriting reports discussing my findings and supervising the tasks of a junior research assistant.\n\n\nWorking under the supervision of Guillermo Caruana. July 2019 - September 2019\nMy tasks included:\n\nDeveloping algorithms in Python to predict tennis match outcomes.\nComparing the accuracy of these algorithms with that of well-established techniques like ELO.\nCommunicating my findings to the research team working on the project.\n\n\n\nTeaching Assistant\n\nCorporate Finance, at CEMFI: Teaching assistance for Javier Suarez. Spring 2021, 2022\nMicroeconomics, at CEMFI: Teaching assistance for Guillermo Caruana. Fall 2021\nPrograma Universitario de Gestión Bancor – FCE UNC, at UNC. Mar 2018 - Jun 2018\nWe offered online training to 1,400 employees of Banco de Córdoba on topics such as the financial system in Argentina and the role of the bank, ICTs and their influence on the banking business, management tools, banking products, leadership, and teamwork.\nIntroduction to Economics (Profesor Ayudante B), at Universidad Nacional de Córdoba. Feb 2018 - Mar 2018\nStatistics II (Profesor Ayudante B), at Universidad Nacional de Córdoba. Oct 2017 - Aug 2018\n\n\nJunior Researcher at the Professional Council of Economics of Córdoba. May 2016 - June 2017  I was part of a team of economists producing monthly reports on the economic situation of Argentina, covering topics such as monetary policy, fiscal policy, international trade, and inflation, among others. The team was also in charge of producing a price index for a subset of cities in Córdoba with monthly frequency."
+    "text": "My research focuses on Corporate Finance and the Economics of Banking, with a particular interest in how financial risks propagate through the system and affect households and firms. I am broadly interested in topics at the intersection of corporate finance and banking, especially the determinants and the effects of firms’ capital structure and the evolving role of non-bank financial intermediaries.\n\n\n\n\n\n\n\n\n\n\n    \n    \n    \n    \n        \n            \n                Working papers\n            \n            \n                \n                    \n                        \n                            \n                                The Allocation of Cash Flow by Spanish Firms: New Evidence on the Impact of Financial Frictions (JMP)\n                            \n                        \n                        \n                            An empirical analysis of the heterogeneous effects of financial frictions on the allocation of cash flow by Spanish firms.\n                        \n                        \n                        \n                        \n                            \n                                \n                                \n                                    \n                                    \n                                    \n                                         CEMFI WP\n                                    \n                                \n                                \n                                \n                                    \n                                    \n                                    \n                                         Download the latest version\n                                    \n                                \n                                \n                            \n                        \n                    \n                    \n                \n                \n            \n                \n                    \n                        \n                            \n                                Decoding Distress: The Behavior of Firms Preceding Bankruptcy\n                            \n                        \n                        \n                            An empirical exploration of the dynamics of firms in the years leading up to bankruptcy.\n                        \n                        \n                        \n                        \n                            \n                                \n                                \n                                    \n                                    \n                                    \n                                         Download the latest version\n                                    \n                                \n                                \n                            \n                        \n                    \n                    \n                \n                \n            \n                \n                    \n                        \n                            \n                                A Model of Interacting Banks and Money Market Funds\n                            \n                        \n                        \n                            A model to rationalize the coexistence of Banks and Money Market funds and to study its policy implications.\n                        \n                        \n                            \n                            \n                            \n                                with\n                                \n                                    \n                                        Javier Suarez\n                                    \n                                    \n                                \n                            \n                        \n                        \n                        \n                            \n                                \n                                \n                                    \n                                    \n                                    \n                                         Download the latest version\n                                    \n                                \n                                \n                            \n                        \n                    \n                    \n                \n                \n            \n                    \n    \n        \n            \n                Policy papers\n            \n            \n                \n                    \n                        \n                            \n                                Análisis del mercado de crédito privado en España\n                            \n                        \n                        \n                            Este artículo presenta una panorámica general de la evolución del mercado de crédito privado en España.\n                        \n                        \n                            \n                            \n                            \n                                with\n                                \n                                    \n                                        Esther Cáceres\n                                    \n                                    \n                                        \n                                            , \n                                        \n                                    \n                                \n                                    \n                                        Gianmarco Ruzzier\n                                    \n                                    \n                                        \n                                            , and \n                                        \n                                    \n                                \n                                    \n                                        Clara (Chi) Xu\n                                    \n                                    \n                                        \n                                    \n                                \n                            \n                        \n                        \n                        \n                            \n                                \n                                \n                                    \n                                    \n                                    \n                                         Revista de Estabilidad Financiera (Banco de España). Número 49. Otoño 2025\n                                    \n                                \n                                \n                            \n                        \n                    \n                    \n                \n                \n            \n                    \n    \n                    \n    \n\nNo matching items"
   },
   {
     "objectID": "research/P2/index.html",
@@ -140,73 +84,115 @@
     "text": "BibTeX citation\n@article{farias2024model,\n  title={The Allocation of Cash Flow by Spanish Firms: New Evidence on the Impact of Financial Frictions},\n  author={Farias, Martin},\n  year={2024}\n}"
   },
   {
-    "objectID": "research/index.html",
-    "href": "research/index.html",
-    "title": "Research",
+    "objectID": "experience/index.html",
+    "href": "experience/index.html",
+    "title": "Experience",
     "section": "",
-    "text": "My research focuses on Corporate Finance and the Economics of Banking, with a particular interest in how financial risks propagate through the system and affect households and firms. I am broadly interested in topics at the intersection of corporate finance and banking, especially the determinants and the effects of firms’ capital structure and the evolving role of non-bank financial intermediaries.\n\n\n\n\n\n\n\n\n\n\n    \n    \n    \n    \n        \n            \n                Working papers\n            \n            \n                \n                    \n                        \n                            \n                                The Allocation of Cash Flow by Spanish Firms: New Evidence on the Impact of Financial Frictions (JMP)\n                            \n                        \n                        \n                            An empirical analysis of the heterogeneous effects of financial frictions on the allocation of cash flow by Spanish firms.\n                        \n                        \n                        \n                        \n                            \n                                \n                                \n                                    \n                                    \n                                    \n                                         CEMFI WP\n                                    \n                                \n                                \n                                \n                                    \n                                    \n                                    \n                                         Download the latest version\n                                    \n                                \n                                \n                            \n                        \n                    \n                    \n                \n                \n            \n                \n                    \n                        \n                            \n                                Decoding Distress: The Behavior of Firms Preceding Bankruptcy\n                            \n                        \n                        \n                            An empirical exploration of the dynamics of firms in the years leading up to bankruptcy.\n                        \n                        \n                        \n                        \n                            \n                                \n                                \n                                    \n                                    \n                                    \n                                         Download the latest version\n                                    \n                                \n                                \n                            \n                        \n                    \n                    \n                \n                \n            \n                \n                    \n                        \n                            \n                                A Model of Interacting Banks and Money Market Funds\n                            \n                        \n                        \n                            A model to rationalize the coexistence of Banks and Money Market funds and to study its policy implications.\n                        \n                        \n                            \n                            \n                            \n                                with\n                                \n                                    \n                                        Javier Suarez\n                                    \n                                    \n                                \n                            \n                        \n                        \n                        \n                            \n                                \n                                \n                                    \n                                    \n                                    \n                                         Download the latest version\n                                    \n                                \n                                \n                            \n                        \n                    \n                    \n                \n                \n            \n                    \n    \n        \n            \n                Policy papers\n            \n            \n                \n                    \n                        \n                            \n                                Análisis del mercado de crédito privado en España\n                            \n                        \n                        \n                            Este artículo presenta una panorámica general de la evolución del mercado de crédito privado en España.\n                        \n                        \n                            \n                            \n                            \n                                with\n                                \n                                    \n                                        Esther Cáceres\n                                    \n                                    \n                                        \n                                            , \n                                        \n                                    \n                                \n                                    \n                                        Gianmarco Ruzzier\n                                    \n                                    \n                                        \n                                            , and \n                                        \n                                    \n                                \n                                    \n                                        Clara (Chi) Xu\n                                    \n                                    \n                                        \n                                    \n                                \n                            \n                        \n                        \n                        \n                            \n                                \n                                \n                                    \n                                    \n                                    \n                                         Revista de Estabilidad Financiera (Banco de España). Número 49. Otoño 2025\n                                    \n                                \n                                \n                            \n                        \n                    \n                    \n                \n                \n            \n                    \n    \n                    \n    \n\nNo matching items"
+    "text": "Senior Economist at Bank of Spain. June 2025 - present  I am part of the Financial Stability and Macroprudential Policy Department of the Financial Stability, Regulation and Resolution DG. \nJunior Economist at OECD. November 2024 - May 2025  I was part of the Productivity, Innovation, and Entrepreneurship (PIE) Division of the Directorate for Science, Technology and Innovation (STI). I mainly worked supporting the semiconductor ecosystem studies and the Semiconductor Informal Exchange Network (SIEN), which included the following tasks:\n\nAutomating data cleaning and management of databases\nData analysis and drafting of country studies focused on the semiconductor industry\nDrafting boxes and sections for papers which I presented in SIEN\n\nI also contributed to other workstreams within the Division by writing research proposals and participating in the provision of policy advice to a European country which received a grant from DG REFORM. \nResearch Assistant\n\nWorking under the supervision of Guillermo Caruana. January 2022 - July 2024\nMy tasks included:\n\nUsing the API of a popular mobile game Clash Royale to track the behavior of users over time.\nCleaning the data and using it to study the prevalence of loss aversion and its interaction with fatigue.\nWriting reports discussing my findings and supervising the tasks of a junior research assistant.\n\n\nWorking under the supervision of Guillermo Caruana. July 2019 - September 2019\nMy tasks included:\n\nDeveloping algorithms in Python to predict tennis match outcomes.\nComparing the accuracy of these algorithms with that of well-established techniques like ELO.\nCommunicating my findings to the research team working on the project.\n\n\n\nTeaching Assistant\n\nCorporate Finance, at CEMFI: Teaching assistance for Javier Suarez. Spring 2021, 2022\nMicroeconomics, at CEMFI: Teaching assistance for Guillermo Caruana. Fall 2021\nPrograma Universitario de Gestión Bancor – FCE UNC, at UNC. Mar 2018 - Jun 2018\nWe offered online training to 1,400 employees of Banco de Córdoba on topics such as the financial system in Argentina and the role of the bank, ICTs and their influence on the banking business, management tools, banking products, leadership, and teamwork.\nIntroduction to Economics (Profesor Ayudante B), at Universidad Nacional de Córdoba. Feb 2018 - Mar 2018\nStatistics II (Profesor Ayudante B), at Universidad Nacional de Córdoba. Oct 2017 - Aug 2018\n\n\nJunior Researcher at the Professional Council of Economics of Córdoba. May 2016 - June 2017  I was part of a team of economists producing monthly reports on the economic situation of Argentina, covering topics such as monetary policy, fiscal policy, international trade, and inflation, among others. The team was also in charge of producing a price index for a subset of cities in Córdoba with monthly frequency."
   },
   {
-    "objectID": "contact/index.html",
-    "href": "contact/index.html",
-    "title": "Contact",
+    "objectID": "research/P3/index.html",
+    "href": "research/P3/index.html",
+    "title": "Decoding Distress: The Behavior of Firms Preceding Bankruptcy",
     "section": "",
-    "text": "If you would like to reach out directly, feel free to email me at martin.farias@bde.es.\nYou are welcome to schedule a virtual meeting using the booking tool below. This space is intended for connecting with those who share similar interests and motivations, as well as for offering guidance to others in their professional journeys—just as I have been supported in mine. Please do not hesitate to reserve a time if you think I can assist you, if you would like to learn more about my career, or if there is anything else you would like to discuss."
+    "text": "This article offers evidence of the behavior and performance of Spanish firms preceding bankruptcy. I estimate a predictive model of bankruptcy which shows that the most important predictors of bankruptcy include measures of equity (net worth), proﬁtability, size, and dividends, as well as the growth rate of aggregate credit. I complement the insights provided by the predictive model with an exploration of the dynamics of firms in the five years preceding bankruptcy, comparing it with the dynamics of firms before exiting the market without filing for bankruptcy. I find that firms arrive at the point of filing for bankruptcy in a very distressed financial situation, after experiencing greater decreases in earnings and equity than firms exiting the market without filing for bankruptcy. Despite this, other measures of the real and financial performance of these firms (investment rates, growth rates of employees, cash savings, and growth rate of account receivables) are mostly similar across the two groups of firms."
   },
   {
-    "objectID": "education/index.html",
-    "href": "education/index.html",
-    "title": "Education",
+    "objectID": "research/P3/index.html#abstract",
+    "href": "research/P3/index.html#abstract",
+    "title": "Decoding Distress: The Behavior of Firms Preceding Bankruptcy",
     "section": "",
-    "text": "PhD in Economics and Government ∙ CEMFI ∙ 2024\nPhD Committee: Samuel Bentolila, Rafael Repullo, and Javier Suarez (supervisor).\nThesis: “Essays on Banking and Corporate Finance”.\nThis dissertation contributes to the discussion of how different types of imperfections in the relationship between firms and financial intermediaries can potentially affect the real and financial performance of firms, their financial vulnerability, the channeling of funds to different types of financial intermediaries, and the stability of the financial system.\nRelevant short courses\n\nMacroeconomics and Climate Change, by John Hassler and Per Krusell.\nTopics: The natural science of climate change, climate damages, natural resource economics, directed technical change, good and bad climate policies.\nMachine Learning in Finance, by Ansgar Walther.\nTopics: Supervised and unsupervised machine learning models, reinforcement learning, interpretability and causal inference in machine learning.\nIntroduction to Experimental Analysis, by Dmitry Arkhangelsky.\nTopics: Static A/B testing, adaptive experiments, dynamic experiments.\nUnstructured Data in Empirical Economics, by Stephen Hansen.\nTopics: The bag-of-words model, latent Dirichlet allocation, word embedding models, large language models, convolutional neural networks.\n\n\n\n Master in Economics and Finance ∙ CEMFI ∙ 2020\nCourses: Mathematics, Microeconomics, Statistics, Uncertainty and Information, Macroeconomics I and II, Econometrics, Industrial Economics, Corporate Finance, Microeconometrics, Economics of Banking, Quantitative Macroeconomics, International Economics, International Macroeconomics, Topics in Empirical Economics.\nMaster thesis: “Public Supply of Liquidity to Mutual Funds”, supervised by Javier Suarez.\n\n\n Bachelor in Economics ∙ Universidad Nacional de Córdoba ∙ 2017\nIn my bachelor I specialized in Quantitative Methods. My thesis supervisor was Alfredo Schclarek Curutchet, and I worked as teaching and research assistant to Ángel Enrique (riqui) Neder.\nI would like to highlight the following course that I attended in my last year at Córdoba:\n\nPrograma de Formación en Normas, Prácticas y Técnicas Bancarias, by BCRA and ABAPPRA (90 hours). Topics: Regulation and supervision of financial institutions; Active operations (Loans); Passive operations; Capital markets; Financial risks; Credit standards; Liquidity, solvency, and dividends; Bank accounting and external auditing; Foreign exchange; User protection; Information security; Security in financial institutions; Payment system."
+    "text": "This article offers evidence of the behavior and performance of Spanish firms preceding bankruptcy. I estimate a predictive model of bankruptcy which shows that the most important predictors of bankruptcy include measures of equity (net worth), proﬁtability, size, and dividends, as well as the growth rate of aggregate credit. I complement the insights provided by the predictive model with an exploration of the dynamics of firms in the five years preceding bankruptcy, comparing it with the dynamics of firms before exiting the market without filing for bankruptcy. I find that firms arrive at the point of filing for bankruptcy in a very distressed financial situation, after experiencing greater decreases in earnings and equity than firms exiting the market without filing for bankruptcy. Despite this, other measures of the real and financial performance of these firms (investment rates, growth rates of employees, cash savings, and growth rate of account receivables) are mostly similar across the two groups of firms."
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Martin Farias",
+    "objectID": "research/P3/index.html#important-figures",
+    "href": "research/P3/index.html#important-figures",
+    "title": "Decoding Distress: The Behavior of Firms Preceding Bankruptcy",
+    "section": "Important figures",
+    "text": "Important figures\n\n\n\nFIGURE 3. Importance of each of the 15 most important covariates in the predictive model associated with \\(\\lambda_{min}\\).\n\n\n\n\n\nFIGURE 5 (Panels a & b). Earnings and equity of bankrupt and exiting firms."
+  },
+  {
+    "objectID": "research/P3/index.html#bibtex-citation",
+    "href": "research/P3/index.html#bibtex-citation",
+    "title": "Decoding Distress: The Behavior of Firms Preceding Bankruptcy",
+    "section": "BibTeX citation",
+    "text": "BibTeX citation\n@article{farias2024model,\n  title={The Allocation of Cash Flow by Spanish Firms: New Evidence on the Impact of Financial Frictions},\n  author={Farias, Martin},\n  year={2024}\n}"
+  },
+  {
+    "objectID": "research/REF_credito_2025/index.html",
+    "href": "research/REF_credito_2025/index.html",
+    "title": "Análisis del mercado de crédito privado en España",
     "section": "",
-    "text": "I am a Senior Economist at the Bank of Spain’s Financial Stability and Macroprudential Policy Department.\n\nPreviously, I was a Junior Economist at the OECD’s Directorate for Science, Technology and Innovation (STI). I received my PhD in Economics from CEMFI, where my research focused on corporate finance and economics of banking.\n\nRead More →"
+    "text": "El mercado de crédito privado ha experimentado un crecimiento notable en los últimos años, posicionándose como una alternativa a la financiación bancaria tradicional. Aunque aún representa una fracción pequeña del crédito corporativo total, especialmente en España, su evolución refleja una creciente sofisticación y diversificación, lo que ha despertado el interés de los supervisores por llevar a cabo una monitorización más rigurosa para preservar la estabilidad del sistema financiero. En España, las empresas que recurren al crédito privado son mayoritariamente de los sectores de tecnología, comunicaciones, industria y comercio. Además, suelen ser más grandes, aunque no más rentables ni más apalancadas. La participación predominante de prestamistas no bancarios y de capital extranjero, especialmente de Estados Unidos y Francia, evidencia la internacionalización del mercado español y su interconexión con el sistema financiero global. Las operaciones de crédito privado se caracterizan por tener mayores volúmenes, plazos más largos y tipos de interés más elevados que los préstamos bancarios, y por reflejar un perfil de riesgo distinto y una mayor flexibilidad contractual. El artículo analiza estas dinámicas con el objetivo de describir la situación actual del mercado de crédito privado en España y sus implicaciones para la estabilidad financiera."
   },
   {
-    "objectID": "blog/first-post/index.html",
-    "href": "blog/first-post/index.html",
-    "title": "My First Post",
+    "objectID": "research/REF_credito_2025/index.html#abstract",
+    "href": "research/REF_credito_2025/index.html#abstract",
+    "title": "Análisis del mercado de crédito privado en España",
     "section": "",
-    "text": "Write your post content here using standard Markdown."
+    "text": "El mercado de crédito privado ha experimentado un crecimiento notable en los últimos años, posicionándose como una alternativa a la financiación bancaria tradicional. Aunque aún representa una fracción pequeña del crédito corporativo total, especialmente en España, su evolución refleja una creciente sofisticación y diversificación, lo que ha despertado el interés de los supervisores por llevar a cabo una monitorización más rigurosa para preservar la estabilidad del sistema financiero. En España, las empresas que recurren al crédito privado son mayoritariamente de los sectores de tecnología, comunicaciones, industria y comercio. Además, suelen ser más grandes, aunque no más rentables ni más apalancadas. La participación predominante de prestamistas no bancarios y de capital extranjero, especialmente de Estados Unidos y Francia, evidencia la internacionalización del mercado español y su interconexión con el sistema financiero global. Las operaciones de crédito privado se caracterizan por tener mayores volúmenes, plazos más largos y tipos de interés más elevados que los préstamos bancarios, y por reflejar un perfil de riesgo distinto y una mayor flexibilidad contractual. El artículo analiza estas dinámicas con el objetivo de describir la situación actual del mercado de crédito privado en España y sus implicaciones para la estabilidad financiera."
   },
   {
-    "objectID": "blog/first-post/index.html#a-section-heading",
-    "href": "blog/first-post/index.html#a-section-heading",
-    "title": "My First Post",
-    "section": "A section heading",
-    "text": "A section heading\nYou can use bold, italic, and links.\n\nBullet lists work like this\nSecond item\n\nYou can also include equations inline like \\(y = \\beta_0 + \\beta_1 x\\) or displayed:\n\\[\n\\hat{\\beta} = (X'X)^{-1}X'y\n\\]"
+    "objectID": "research/REF_credito_2025/index.html#gráficos-y-cuadros-importantes",
+    "href": "research/REF_credito_2025/index.html#gráficos-y-cuadros-importantes",
+    "title": "Análisis del mercado de crédito privado en España",
+    "section": "Gráficos y cuadros importantes",
+    "text": "Gráficos y cuadros importantes\n\n\n\nGráfico 3c. Capital invertido en el mercado de crédito privado en España.\n\n\n\n\n\nCuadro 1. Características de las empresas de la CBI en función del tipo de financiación que reciben."
   },
   {
-    "objectID": "blog/first-post/index.html#another-section",
-    "href": "blog/first-post/index.html#another-section",
-    "title": "My First Post",
-    "section": "Another section",
-    "text": "Another section\nAdd as many sections as you need. When you’re done, delete the draft: true line (if you used it) and run quarto render.\nTo write a new post, duplicate the blog/first-post/ folder, rename it to your post’s slug (e.g., blog/my-new-post/), and edit the index.qmd inside it."
+    "objectID": "research/P1/index.html",
+    "href": "research/P1/index.html",
+    "title": "A Model of Interacting Banks and Money Market Funds",
+    "section": "",
+    "text": "We examine the interaction between banks and Money Market Funds (MMFs) in a setup where the latter can experience large redemptions following an aggregate liquidity shock (as in March 2020). In the model, MMFs and bank deposits are alternatives for firms’ management of their cash holdings. MMFs experiencing correlated redemptions get forced to sell assets to banks in narrow markets, producing asset price declines. Ex post the price declines damage firms’ capacity to cover their needs with the redeemed shares. Ex ante the prospect of such an effect reduces the attractiveness of MMFs relative to bank deposits. Yet the equilibrium allocation of firms’ savings exhibits an excessive reliance on MMFs since firms fail to internalize their effect on the size of the pecuniary externalities caused by future redemptions. This provides a rationale, distinct from first-mover advantages, for the macroprudential regulation of the investment in MMFs."
   },
   {
-    "objectID": "blog/first-post/index.html#figures",
-    "href": "blog/first-post/index.html#figures",
-    "title": "My First Post",
-    "section": "Figures",
-    "text": "Figures\nTo add a figure, place the image file in this post’s folder and reference it:\n\n\n\nA descriptive caption for the figure.\n\n\nFor a smaller or centered figure, you can control the width:\n\n\n\nCaption here.\n\n\nYou can also give figures a label to cross-reference them in the text (e.g. “as shown in Figure 1”):\n\n\n\n\n\n\nFigure 1: Caption here."
+    "objectID": "research/P1/index.html#abstract",
+    "href": "research/P1/index.html#abstract",
+    "title": "A Model of Interacting Banks and Money Market Funds",
+    "section": "",
+    "text": "We examine the interaction between banks and Money Market Funds (MMFs) in a setup where the latter can experience large redemptions following an aggregate liquidity shock (as in March 2020). In the model, MMFs and bank deposits are alternatives for firms’ management of their cash holdings. MMFs experiencing correlated redemptions get forced to sell assets to banks in narrow markets, producing asset price declines. Ex post the price declines damage firms’ capacity to cover their needs with the redeemed shares. Ex ante the prospect of such an effect reduces the attractiveness of MMFs relative to bank deposits. Yet the equilibrium allocation of firms’ savings exhibits an excessive reliance on MMFs since firms fail to internalize their effect on the size of the pecuniary externalities caused by future redemptions. This provides a rationale, distinct from first-mover advantages, for the macroprudential regulation of the investment in MMFs."
   },
   {
-    "objectID": "blog/first-post/index.html#tables",
-    "href": "blog/first-post/index.html#tables",
-    "title": "My First Post",
-    "section": "Tables",
-    "text": "Tables\nStandard Markdown tables:\n\nA caption for the table.\n\n\n\n\n\n\n\nCountry\nGDP growth\nInflation\n\n\n\n\nSpain\n2.5%\n3.1%\n\n\nGermany\n0.2%\n2.8%\n\n\nFrance\n1.1%\n2.4%\n\n\n\nYou can also reference tables with a label (e.g. “as in Table 1”):\n\n\n\nTable 1: Table caption.\n\n\n\n\n\nA\nB\n\n\n\n\n1\n2"
+    "objectID": "research/P1/index.html#bibtex-citation",
+    "href": "research/P1/index.html#bibtex-citation",
+    "title": "A Model of Interacting Banks and Money Market Funds",
+    "section": "BibTeX citation",
+    "text": "BibTeX citation\n@article{farias2024model,\n  title={A Model of Interacting Banks and Money Market Funds},\n  author={Farias, Martin and Suarez, Javier},\n  year={2024}\n}"
   },
   {
-    "objectID": "blog/first-post/index.html#equations",
-    "href": "blog/first-post/index.html#equations",
-    "title": "My First Post",
-    "section": "Equations",
-    "text": "Equations\nInline: \\(y = \\beta_0 + \\beta_1 x\\)\nDisplayed:\n\\[\n\\hat{\\beta} = (X'X)^{-1}X'y\n\\tag{1}\\]\n\nTo write a new post: duplicate the blog/first-post/ folder, rename it (e.g. blog/my-new-post/), and edit index.qmd inside it."
+    "objectID": "about/index.html",
+    "href": "about/index.html",
+    "title": "About",
+    "section": "",
+    "text": "I am part of the Financial Stability and Macroprudential Policy Department of the Financial Stability, Regulation and Resolution DG.\nPreviously, I was a Junior Economist at the OECD’s Directorate for Science, Technology and Innovation. I received my PhD in Economics from CEMFI, where my research focused on corporate finance and economics of banking.\nIf you would like to talk to me, email me at martin.farias@bde.es or  book an appointment here."
+  },
+  {
+    "objectID": "about/index.html#experience",
+    "href": "about/index.html#experience",
+    "title": "About",
+    "section": "Experience",
+    "text": "Experience\n\nSenior Economist at Bank of Spain. June 2025 - present  I am part of the Financial Stability and Macroprudential Policy Department of the Financial Stability, Regulation and Resolution DG.\nJunior Economist at OECD. November 2024 - May 2025  I was part of the Productivity, Innovation, and Entrepreneurship (PIE) Division of the Directorate for Science, Technology and Innovation (STI).\nResearch Assistant.\n\nWorking under the supervision of Guillermo Caruana. January 2022 - July 2024\n\nWorking under the supervision of Guillermo Caruana. July 2019 - September 2019\n\n\nTeaching Assistant.\n\nCorporate Finance, at CEMFI: Teaching assistance for Javier Suarez. Spring 2021, 2022\nMicroeconomics, at CEMFI: Teaching assistance for Guillermo Caruana. Fall 2021\nPrograma Universitario de Gestión Bancor – FCE UNC, at UNC. Mar 2018 - Jun 2018\n\nIntroduction to Economics, at Universidad Nacional de Córdoba. Feb 2018 - Mar 2018\nStatistics II, at Universidad Nacional de Córdoba. Oct 2017 - Aug 2018\n\n\nJunior Researcher at the Professional Council of Economics of Córdoba. May 2016 - June 2017\n\n\nRead more about my experience here →"
+  },
+  {
+    "objectID": "about/index.html#research",
+    "href": "about/index.html#research",
+    "title": "About",
+    "section": "Research",
+    "text": "Research\nMy research focuses on Corporate Finance and the Economics of Banking, with a particular interest in how financial risks propagate through the system and affect households and firms. I am broadly interested in topics at the intersection of corporate finance and banking, especially the determinants and the effects of firms’ capital structure and the evolving role of non-bank financial intermediaries.\n\nRead more about my current projects here →"
+  },
+  {
+    "objectID": "about/index.html#education",
+    "href": "about/index.html#education",
+    "title": "About",
+    "section": "Education",
+    "text": "Education\n PhD in Economics and Government ∙ CEMFI ∙ 2024\n Master in Economics and Finance ∙ CEMFI ∙ 2020\n Bachelor in Economics ∙ Universidad Nacional de Córdoba ∙ 2017\n\nRead more about my education here →"
+  },
+  {
+    "objectID": "blog/index.html",
+    "href": "blog/index.html",
+    "title": "Blog",
+    "section": "",
+    "text": "An informal space to share ideas, discuss findings, and reflect on topics I find interesting.\n\n\n    \n    \n                  \n            Feb 27, 2026\n        \n        \n            My First Post\n            \n            \n                \n                \n                    Economics\n                \n                \n                \n                    Research\n                \n                \n            \n            \n            A short description of what this post is about. This text appears in the blog listing.\n        \n        \n        \n            \n        \n        \n    \n    \n\nNo matching items"
   }
 ]

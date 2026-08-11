@@ -1,21 +1,23 @@
 [
   {
-    "listing": "/blog/index.html",
-    "items": [
-      "/blog/first-post/index.html"
-    ]
-  },
-  {
-    "listing": "/about/index.html",
-    "items": []
-  },
-  {
     "listing": "/research/index.html",
     "items": [
       "/research/P2/index.html",
       "/research/P3/index.html",
       "/research/REF_credito_2025/index.html",
       "/research/P1/index.html"
+    ]
+  },
+  {
+    "listing": "/about/index.html",
+    "items": [
+      "/blog/first-post/index.html"
+    ]
+  },
+  {
+    "listing": "/blog/index.html",
+    "items": [
+      "/blog/first-post/index.html"
     ]
   }
 ]
